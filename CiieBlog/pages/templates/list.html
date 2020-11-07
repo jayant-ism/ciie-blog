@@ -31,13 +31,15 @@
         <th>details</th>
       </tr>
     </thead>
-<tbody>
     
-    <td>Name</td>
-    <td>Website</td>
-    <td>contact</td>
-    <td>details</td>
+    {% for content in object_list %}
+    <tbody>
+        <td>{{ content.name }}</td>
+        <td>{{ content.website }}</td>
+        <td>{{ content.contact }}</td>
+        <td>{{ content.details }}</td>
     </tbody>
+    {% endfor %}
 
 </table>
 

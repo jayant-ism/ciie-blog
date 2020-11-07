@@ -1,5 +1,6 @@
 from django.shortcuts import render
-from django.views.generic import TemplateView
+from django.views.generic import TemplateView , ListView
+from .models import *
 # Create your views here.
 
 class HomePageView(TemplateView):
@@ -11,5 +12,6 @@ class AboutPageView(TemplateView):
 class ContactPageView(TemplateView):
     template_name = 'contact.html'
 
-class ListPageView(TemplateView):
+class ListPageView(ListView):
+    model = TableDisplay 
     template_name = 'list.html'
