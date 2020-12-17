@@ -1,0 +1,440 @@
+body{
+    background-color: #f5f5f5;
+}
+header {
+    display: flex;
+    min-height: 80px;
+    background-color: #e8e8db;
+}
+
+header p{
+    font-family: 'Calibri', sans-serif;
+    color: #116466;
+}
+
+.insti_name p{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+.company_name p{
+    font-size: 1.3rem;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo{
+    flex: 1;
+    margin-right: 1%;
+}
+
+.logo img {
+    background-color: #e8e8db;
+    height: 80px;
+    margin-left: 20%;
+    
+}
+
+.insti_name {
+    text-align: right;
+    flex: 1;
+}
+
+.company_name {
+    background-color:#e8e8db;
+    flex: 2;
+    margin-left: 10px;
+}
+
+
+
+.footer_info{
+    background-color: #2c3531;
+    min-height: 100px;
+    display: flex;
+}
+
+.explore{
+    flex: 1;
+}
+
+.contact{
+    flex: 1;
+}
+
+.head_info{
+    margin-bottom: 25px;
+}
+
+.head_info p{
+    font-family: 'Calibri';
+    font-size: 1.1rem;
+    color: #d9b08c;
+    margin: 10px 0px 0px 30px;
+    /* line-height: 1.3rem;  */
+    text-align: center;   
+}
+
+.footer_head p{
+    font-family: 'Agency FB';
+    font-size: 1.8rem;
+    color: #f5f5f5;
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.copyright{
+    min-height: 40px;
+    background-color: black;
+    color: #f5f5f5;
+    font-family: 'Calibri';
+    font-size: 1.1rem;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+/* nav bar styling */
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0px;
+    font-family: 'segoe ui';
+  }
+  
+  .nav {
+    height: 50px;
+    width: 100%;
+    background-color:#116466;
+    position: relative;
+  }
+  
+  .nav > .nav-header {
+    display: inline;
+  }
+  
+  .nav > .nav-header > .nav-title {
+    display: inline-block;
+    font-size: 22px;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+  }
+  
+  .nav > .nav-btn {
+    display: none;
+  }
+  
+  .nav > .nav-links {
+    display: inline;
+    float: right;
+    font-size: 18px;
+  }
+  
+  .nav > .nav-links > a {
+    display: inline-block;
+    padding: 13px 10px 13px 10px;
+    text-decoration: none;
+    color: #efefef;
+  }
+  
+  .nav > .nav-links > a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  
+  .nav > #nav-check {
+    display: none;
+  }
+  
+  @media (max-width:1270px){
+      
+    .nav > .nav-btn {
+      display: inline-block;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+    }
+    .nav > .nav-btn > label {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      padding: 13px;
+    }
+    .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+      background-color:#116466;
+    }
+    .nav > .nav-btn > label > span {
+      display: block;
+      width: 25px;
+      height: 10px;
+      border-top: 2px solid #eee;
+    }
+    .nav > .nav-links {
+      
+      display: block;
+      width: 80%;
+      background-color: #116466;
+      height: 0px;
+      transition: all 0.6s ease-in;
+      overflow-y: hidden;
+      top: 50px;
+      left: 0px;
+      max-height: 900%;
+    }
+    .nav > .nav-links > a {
+      display: block;
+      width: 100%;
+    }
+    .nav > #nav-check:not(:checked) ~ .nav-links {
+      height: 0px;
+    }
+    .nav > #nav-check:checked ~ .nav-links {
+      height: calc(100vh - 50px);
+      overflow-y: auto;
+    }
+}
+
+
+@media (max-width:500px){
+    header {
+        display: block;
+        min-height: 80px;
+        background-color: #e8e8db;
+    }
+    
+    .insti_name p{
+        font-size: 1.8rem;
+        font-weight: 700;
+        margin-top: 8px;
+        text-align: center;
+    }
+    
+    .company_name p{
+        font-size: 1.2rem;
+        margin-top: 4px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    
+    .logo{
+        align-content: left;
+        flex: 1;
+    }
+    .logo img {
+        background-color: #e8e8db;
+        height: 80px;
+        margin-left: 25%;
+        
+    }
+    
+    
+}
+
+
+
+.insti_img img {
+    min-height: 300px;
+    width: 100%;
+    
+}
+
+.aboutus {
+    background-color: #d1e8e2;
+    min-height: 250px;
+    /* text-align: center; */
+}
+
+.aboutus_title{
+    font-family: 'Agency FB';
+    font-size: 1.8rem;
+    color: #d9b08c;
+    padding-top: 40px;
+    text-align: center;
+}
+
+
+.aboutus_info {
+    display: flex;
+    text-align: left;
+}
+
+.aboutus_info p{
+    font-family: 'Calibri';
+    font-size: 1.1rem;
+    color: #116466;
+    margin: 30px 4% 40px 4%;
+    line-height: 1.3rem;
+}
+
+.aboutus_info1 p{
+    margin-left: 10%;
+} 
+.aboutus_info2 p{
+    margin-right: 10%;
+} 
+
+.img_slider {
+    background-color: #d2d2d2;
+    margin: 20px 0%;
+    min-height: 400px;
+}
+.obj_title{
+    font-family: 'Agency FB';
+    font-size: 1.8rem;
+    color: #d9b08c;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.obj_box{
+    display: flex;
+    min-height: 200px;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.obj_box1{
+    width: 40%;
+    background-color: #d1e8e2;
+    margin: 0px 2% 0px 6%;
+}
+
+
+.obj_box2{
+    width: 40%;
+    background-color: #d1e8e2;
+    margin: 0px 2% 0px 5%;
+}
+
+.obj_box3{
+    width: 40%;
+    background-color: #d1e8e2;
+    margin: 0px 6% 0px 5%;
+}
+
+.obj_box p{
+    font-family: 'Calibri';
+    font-size: 1.1rem;
+    color: #116466;
+    margin: 11%;
+    line-height: 1.3rem; 
+    text-align: center;   
+}
+
+
+
+.faq_head{
+    
+    min-height: 40px;
+    background-color: #116466;
+    color: #f5f5f5;
+    font-family: 'Agency FB';
+    font-size: 1.5rem;
+    text-align: left;
+    padding-left: 6%;
+    padding-top: 8px;
+}
+
+.faq_info{
+    min-height: 20px;
+    background-color: #d1e8e2;
+    color: #116466;
+    font-family: 'Calibri';
+    font-size: 1.1rem;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 10px;
+}
+
+
+.faq_info p{
+    padding-bottom: 20px;
+}
+
+
+
+.row-lg-12 h1{
+    font-family: 'Agency FB';
+    font-weight: 500;
+    font-size: 2rem;
+    color: #f5f5f5;
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+
+.collapse{
+    margin-right: 4%;
+}
+
+.collapse_btn{
+    background-color: #116466;
+    color: #f5f5f5; 
+    border: none; 
+    border-radius: 10%; 
+    padding: 5px;
+}
+
+@media (max-width:800px){
+    .aboutus_info {
+        display: block;
+    }
+
+    .aboutus_info1 p{
+        margin-left: 10%;
+        margin-right: 10%;
+        padding-bottom: 40px;
+        text-align: center;
+    } 
+
+    .aboutus_info2{
+        display: none;
+    }
+
+    .obj_box{
+        display: block;
+    }
+
+    .obj_box1{
+        width: 80%;
+        margin: auto;
+    }
+    
+    
+    .obj_box2{
+        width: 80%;
+        margin: auto;
+    }
+    
+    .obj_box3{
+        width: 80%;
+        margin: auto;
+    }
+    
+    .obj_box p{
+        margin: 20px 8%;
+        padding: 20px 0px;
+    }
+    
+    .mobile-view{
+        display: none;
+    }
+}
+
+
+

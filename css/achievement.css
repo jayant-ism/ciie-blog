@@ -1,0 +1,298 @@
+body{
+  background-color: #f5f5f5;
+}
+header {
+  display: flex;
+  min-height: 80px;
+  background-color: #e8e8db;
+}
+
+header p{
+  font-family: 'Calibri', sans-serif;
+  color: #116466;
+}
+
+.insti_name p{
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 25px;
+}
+
+.company_name p{
+  font-size: 1.3rem;
+  margin-top: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo{
+  flex: 1;
+  margin-right: 1%;
+}
+
+.logo img {
+  background-color: #e8e8db;
+  height: 80px;
+  margin-left: 20%;
+  
+}
+
+.insti_name {
+  text-align: right;
+  flex: 1;
+}
+
+.company_name {
+  background-color:#e8e8db;
+  flex: 2;
+  margin-left: 10px;
+}
+
+
+.insti_img img {
+  min-height: 300px;
+  width: 100%;
+}
+
+
+
+
+
+.footer_info{
+  background-color: #2c3531;
+  min-height: 100px;
+  display: flex;
+}
+
+.explore{
+  flex: 1;
+}
+
+.contact{
+  flex: 1;
+}
+
+.head_info{
+  margin-bottom: 25px;
+}
+
+.head_info p{
+  font-family: 'Calibri';
+  font-size: 1.1rem;
+  color: #d9b08c;
+  margin: 10px 0px 0px 30px;
+  /* line-height: 1.3rem;  */
+  text-align: center;   
+}
+
+.footer_head p{
+  font-family: 'Agency FB';
+  font-size: 1.8rem;
+  color: #f5f5f5;
+  padding-top: 25px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.copyright{
+  min-height: 40px;
+  background-color: black;
+  color: #f5f5f5;
+  font-family: 'Calibri';
+  font-size: 1.1rem;
+  text-align: center;
+  padding-top: 10px;
+}
+
+
+
+/* nav bar styling */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: 'segoe ui';
+}
+
+.nav {
+  height: 50px;
+  width: 100%;
+  background-color:#116466;
+  position: relative;
+}
+
+.nav > .nav-header {
+  display: inline;
+}
+
+.nav > .nav-header > .nav-title {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.nav > .nav-btn {
+  display: none;
+}
+
+.nav > .nav-links {
+  display: inline;
+  float: right;
+  font-size: 18px;
+}
+
+.nav > .nav-links > a {
+  display: inline-block;
+  padding: 13px 10px 13px 10px;
+  text-decoration: none;
+  color: #efefef;
+}
+
+.nav > .nav-links > a:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.nav > #nav-check {
+  display: none;
+}
+
+@media (max-width:1270px){
+    
+  .nav > .nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .nav > .nav-btn > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+    background-color:#116466;
+  }
+  .nav > .nav-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #eee;
+  }
+  .nav > .nav-links {
+    
+    display: block;
+    width: 80%;
+    background-color: #116466;
+    height: 0px;
+    transition: all 0.6s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
+    max-height: 900%;
+  }
+  .nav > .nav-links > a {
+    display: block;
+    width: 100%;
+  }
+  .nav > #nav-check:not(:checked) ~ .nav-links {
+    height: 0px;
+  }
+  .nav > #nav-check:checked ~ .nav-links {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+}
+
+
+@media (max-width:500px){
+  header {
+      display: block;
+      min-height: 80px;
+      background-color: #e8e8db;
+  }
+  
+  .insti_name p{
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin-top: 8px;
+      text-align: center;
+  }
+  
+  .company_name p{
+      font-size: 1.2rem;
+      margin-top: 4px;
+      text-align: center;
+      padding-bottom: 10px;
+  }
+  
+  .logo{
+      align-content: left;
+      flex: 1;
+  }
+  .logo img {
+      background-color: #e8e8db;
+      height: 80px;
+      margin-left: 25%;
+      
+  }
+  
+  
+}
+
+
+
+/* achievement page  */
+.achieve_head{
+    background-color: #f7d16c;
+    min-height: 60px;
+    font-family: 'Azonics';
+    font-weight: 600;
+    font-size: 2rem;
+    color: #f5f5f5;
+    padding-top: 15px;
+    padding-left: 6%; 
+}
+
+.achieve_trophy img{
+    width:100%;
+    height: 500px;
+    margin-bottom:20px ;
+}
+
+.achieve_pic {
+    display: flex;
+}
+
+.pic_col1{
+    width: 20%;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.pic_col1 img{
+    width: 100%;
+}
+
+.pic_col2{
+    display: flex;
+    width: 80%;
+    /* min-height: 500px; */
+}
+
+.pic_row{
+    background-color:#8cc4b7;
+    min-height: 245px;
+    margin: 10px 10px 10px 5px;
+    width: 250px;
+}
+
+span{
+  color:white;
+}
