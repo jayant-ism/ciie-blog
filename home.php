@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>home-ciie</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -13,7 +13,7 @@
     
 </head>
 <body>
-    <div class="containerr">
+    <div class="containrr">
         <?php require 'require/header.php';?>
 
         <?php require 'require/nav.php';?>
@@ -44,6 +44,85 @@
 
 
             <div class="img_slider">
+                
+                <div class="slideshow-container" style="padding-top: 50px;">
+                
+                <div class="mySlides fade ">
+                  
+                  <div class="card">
+                    <img src="images/sampleimage.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
+                    <div class="container">
+                        <div class="text"><p>Caption One</p></div>
+                    </div>
+                  </div>
+                  
+                </div>
+                
+                <div class="mySlides fade ">
+                  
+                  <div class="card">
+                    <img src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
+                    <div class="container">
+                        <div class="text"><p>Caption Two</p></div>
+                    </div>
+                  </div>
+                  
+                </div>
+                
+                <div class="mySlides fade ">
+                  
+                  <div class="card">
+                    <img src="images/members.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
+                    <div class="container">
+                        <div class="text"><p>Caption Three</p></div>
+                    </div>
+                  </div>
+                  
+                </div>
+                
+                </div>
+                <br>
+                
+                <div style="text-align:center">
+                  <span class="dot"></span> 
+                  <span class="dot"></span> 
+                  <span class="dot"></span> 
+                </div>
+                
+                <script>
+                var slideIndex = 0;
+                showSlides();
+                
+                function showSlides() {
+                  var i;
+                  var slides = document.getElementsByClassName("mySlides");
+                  
+                  var dots = document.getElementsByClassName("dot");
+                  for (i = 0; i < slides.length; i++) {
+                    
+                        slides[i].style.display = "none";
+                    
+                      
+                  }
+                  slideIndex++;
+                  if (slideIndex > slides.length) {slideIndex = 1}    
+                  for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" active", "");
+                  }
+                  slides[slideIndex-1].style.display = "block";  
+                  dots[slideIndex-1].className += " active";
+                  setTimeout(showSlides, 2000)
+                }
+                
+
+                
+                </script>
+
+
+
+
+
+
             </div>
 
             <div class="obj">
@@ -158,6 +237,105 @@
         </main>
         <?php require 'require/footer.php';?>
     </div>
+
+
+    <style>
+            .card {
+ 
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+ transition: 0.6s;
+ border-radius: 5%;
+ width: 100%;
+ margin: 0 auto;
+}
+
+
+.card:hover {
+ box-shadow: 0 10px 30px 0 rgba(0,51,0,0.2);
+ background-color: #f2f2f2;
+ 
+}
+
+.img_slider{
+    width: 100%;
+}
+
+
+.container {
+ padding: 16px;
+ 
+}
+        * {box-sizing: border-box;}
+        body {font-family: Verdana, sans-serif;}
+        .mySlides{display: none;}
+        img {vertical-align: middle;}
+        
+        /* Slideshow container */
+        .slideshow-container {
+          max-width: 1000px;
+          position: relative;
+          margin: auto;
+        }
+        
+        /* Caption text */
+        .text {
+          color: black;
+
+          margin: 0 auto;
+          
+        }
+        
+        /* Number text (1/3 etc) */
+        .numbertext {
+          color: #f2f2f2;
+          font-size: 12px;
+          padding: 8px 12px;
+          position: absolute;
+          top: 0;
+        }
+        
+        /* The dots/bullets/indicators */
+        .dot {
+          height: 15px;
+          width: 15px;
+          margin: 0 2px;
+          background-color: #bbb;
+          border-radius: 50%;
+          display: inline-block;
+          transition: background-color 0.6s ease;
+          margin-bottom: 30px;
+        }
+        
+        .active {
+          background-color: #717171;
+        }
+        
+        /* Fading animation */
+        .fade {
+          -webkit-animation-name: fade;
+          -webkit-animation-duration: 2.0s;
+          animation-name: fade;
+          animation-duration: 2.0s;
+        }
+        
+        @-webkit-keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+        }
+        
+        @keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+        }
+        
+        /* On smaller screens, decrease text size */
+        @media only screen and (max-width: 600px) {
+          .text {font-size: 11px}
+          .mySlides{
+              width:100%;
+          }
+        }
+        </style>
     
 </body>
 </html>
