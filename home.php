@@ -141,7 +141,7 @@
                 </div>
                 </div>
             </div>
-
+<!--
             <div class="row-lg-12" style="background-color: #e8e8db;">
                 <h1 style=" color: #116466; text-align: center; margin-bottom: -1px"> Members </h1>
                  <div class="col-lg-4 col-md-12" style="background-color: #e8e8db;">
@@ -164,7 +164,7 @@
                     <div class="row-lg-4" style=" margin-bottom: 80px;"><p><img style="float: left;" src="images/pic.jpeg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente voluptas quam veniam officia eveniet sint ad recusandae</p></div>
                 </div>
             </div>
-
+              -->
             <div class="faq">
                 <div class="faq_head">
                     <p>FREQUENTLY ASKED QUESTIONS ?</p>

@@ -13,11 +13,13 @@
     <link rel="stylesheet" href="css/achievement.css">
 </head>
 <body>
-    <div class="container">
-        
-        <?php require 'require/header.php';?>
+  
+<?php require 'require/header.php';?>
         <?php require 'require/nav.php';?>
 
+        
+    <div class="container">
+        
         <main>
             <div class="achieve_head">
                 <p>ACHIEVEMENTS</p>
@@ -160,9 +162,11 @@
 
         <span>.</span>
         
-        <?php require 'require/footer.php';?>
         
     </div>
+    <?php require 'require/footer.php';?>
+        
+
     <style>
         .card {
  
@@ -180,6 +184,7 @@
 
 .container {
   padding: 16px;
+  width : 90%  ;
 }
 
 .flip-card {

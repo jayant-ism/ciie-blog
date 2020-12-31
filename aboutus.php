@@ -33,6 +33,36 @@
                     <div class="text_head">
                         <p>Highlights</p>
                     </div>
+                    <div class="conatainer">
+                    
+                        <marquee direction="up">
+
+
+                        <ul>
+                            
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    
+                        <li> <a href="" > Detail </li>    
+                    </ul>
+
+                        </marquee>    
+                </div>
                 </div>
             </div>
             <div class="aboutus_row">
@@ -55,7 +85,7 @@ Associate Dean, Incubation and Entrepreneurship</p></div>
                         </div>
                         
 
-                        
+
                             <div class="mySlides fade ">
                           
                           <div class="card">
