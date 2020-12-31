@@ -40,40 +40,76 @@
                         <p>Committee</p>
                     </div>
                     <div class="slideshow-container" style="padding-top: 50px;">
-                
-                        <div class="mySlides fade ">
+                            <!-- here --> 
+                        
+                            <div class="mySlides fade ">
                           
                           <div class="card">
-                            <img src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 250px; border-radius: 5%; margin: auto;">
+                            <img src="images/commit/Saumya_Singh.jpg" alt="Ciee" class="images">
                             <div class="container">
-                                <div class="text"><p>Caption One</p></div>
+                                <div class="text"><p>Saumya Singh <br> Head, CIIE
+Associate Dean, Incubation and Entrepreneurship</p></div>
                             </div>
                           </div>
                           
                         </div>
                         
-                        <div class="mySlides fade ">
+
+                        
+                            <div class="mySlides fade ">
                           
                           <div class="card">
-                            <img src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 250px;  border-radius: 5%;">
+                            <img src="images/commit/Aparna.jpg" alt="Ciee" class="images">
                             <div class="container">
-                                <div class="text"><p>Caption Two</p></div>
+                                <div class="text"><p>Aparna Krishna<br> Faculty Coordinator, Website Development and Content and Graphic Designing</p></div>
                             </div>
                           </div>
                           
                         </div>
                         
+
+
                         <div class="mySlides fade ">
                           
                           <div class="card">
-                            <img src="images/members.jpeg" alt="Ciee" style="width:100%; height: 250px;  border-radius: 5%;">
+                            <img src="images/commit/N_Das.jpg" alt="Ciee" class="images">
                             <div class="container">
-                                <div class="text"><p>Caption Three</p></div>
+                                <div class="text"><p>Niladri Das <br>Faculty Coordinator, Alumni and Industry Networking</p></div>
                             </div>
                           </div>
                           
                         </div>
                         
+
+
+                        
+
+                        <div class="mySlides fade ">
+                          
+                          <div class="card">
+                                <img src="images/commit/Shashank_Bansal.jpg" alt="Ciee" class="images" >
+                                <div class="container">
+                                <div class="text"><p>Shashank Bansal <br> Faculty Coordinator, Event Coordination </p></div>
+                            </div>
+                          </div>
+                          
+                        </div>
+                        
+
+
+                        <div class="mySlides fade ">
+                          
+                          <div class="card">
+                            <img src="images/commit/Shikha_Singh.jpg" alt="Ciee" class="images">
+                            <div class="container">
+                                <div class="text"><p>Shikha Singh <br> Faculty Coordinator, Branding and Promotions </p></div>
+                            </div>
+                          </div>
+                          
+                        </div>
+                        
+
+                        <!--  here -->
                         </div>
                         <br>
                         
@@ -186,6 +222,10 @@
           animation-duration: 2.0s;
         }
         
+        .images{
+            width:100%; height: 250px; border-radius: 5%;   margin-left: auto;  margin-right: auto; max-width:400px ;   display: block;
+
+        }
         @-webkit-keyframes fade {
           from {opacity: .4} 
           to {opacity: 1}
@@ -203,6 +243,9 @@
               width:100%;
           }
         }
+
+
+
     </style>
     
     </div>
