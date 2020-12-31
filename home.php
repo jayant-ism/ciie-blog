@@ -257,6 +257,7 @@
 }
 
 .img_slider{
+  background-color:white ;
     width: 100%;
 }
 

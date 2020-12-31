@@ -65,6 +65,8 @@
                 </div>
                 </div>
             </div>
+
+
             <div class="aboutus_row">
                 <div class="aboutus_col1"><div class="text_head">
                         <p>Committee</p>
@@ -77,8 +79,7 @@
                           <div class="card">
                             <img src="images/commit/Saumya_Singh.jpg" alt="Ciee" class="images">
                             <div class="container">
-                                <div class="text"><p>Saumya Singh <br> Head, CIIE
-Associate Dean, Incubation and Entrepreneurship</p></div>
+                                <div class="text"><p>Saumya Singh <br> Head, CIIE <br>Associate Dean, Incubation and Entrepreneurship</p></div>
                             </div>
                           </div>
                           
