@@ -13,10 +13,12 @@
     <link rel="stylesheet" href="css/achievement.css">
 </head>
 <body>
+
+<?php require 'require/header.php';?>
+        <?php require 'require/nav.php';?>
+
     <div class="container">
         
-        <?php require 'require/header.php';?>
-        <?php require 'require/nav.php';?>
 
         <main>
             <div class="achieve_head">
@@ -160,9 +162,10 @@
 
         <span>.</span>
         
-        <?php require 'require/footer.php';?>
-        
     </div>
+    
+    <?php require 'require/footer.php';?>
+        
     <style>
         .card {
  
