@@ -26,14 +26,15 @@ $i = 1;
 while( $excel->getActiveSheet()->getCell('A'.$i) != ""){
 $i++;
 }
-echo $i;
+
 // insert value
 $excel->getActiveSheet()->SetCellValue('A'.$i, $i);
 $excel->getActiveSheet()->SetCellValue('B'.$i, $startupname);
 $excel->getActiveSheet()->SetCellValue('C'.$i, $teamleader);
 $excel->getActiveSheet()->SetCellValue('D'.$i, $date); 
-
-
+// saving
+$writer = PHPExcel_IOFactory::createWriter($excel, "Excel2007");
+$writer->save("../Start_up list(with contact details).xlsx");
 ?>
 Congratulation! You have logged into password protected page. <a href="logout.php">Click here</a> to Logout.
 
