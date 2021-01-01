@@ -308,6 +308,26 @@ a {
 }
 
 
+.marque-css{
+    min-height: 50px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.marque-css li{
+  margin-bottom: 5px;
+}
+
+.marque-css a{
+  text-decoration: none;
+  color: #116466;
+  font-family: 'Calibri';
+  font-size: 1.4rem;
+}
+
+
+
+
 @media (max-width:800px){
     .aboutus_row{
         display: block;
@@ -336,3 +356,4 @@ a {
     }
 
 }
+

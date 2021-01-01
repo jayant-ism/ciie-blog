@@ -12,7 +12,7 @@
 <?php require 'require/header.php';?>
 
 <?php require 'require/nav.php';?>
-    <div class="container">
+    <div class="containr">
 
         <main>
             <div class="aboutus_head">
@@ -35,7 +35,7 @@
                     </div>
                     <div class="conatainer">
                     
-                        <marquee direction="up">
+                        <marquee class="marque-css" direction="up">
 
 
                         <ul>
