@@ -1,4 +1,4 @@
-<footer>
+<footer >
             <div class="footer_info">
                 <div class="explore">
                     <div class="footer_head">

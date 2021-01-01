@@ -39,7 +39,9 @@
 
 
                         <ul>
-                            
+
+                        
+                                        
                         <li> <a href="" > Detail </li>    
                     
                         <li> <a href="" > Detail </li>    

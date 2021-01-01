@@ -19,7 +19,21 @@ exit;
 }
 ?>
 
-<form action="" method="post" name="Login_Form">
+
+<html> 
+  <head>
+    
+  <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login-ciie</title>
+</head>
+<body>
+<form action="" method="post" name="Login_Form" class="form">
   <table width="400" border="0" align="center" cellpadding="5" cellspacing="1" class="Table">
     <?php if(isset($msg)){?>
     <tr>
@@ -31,15 +45,18 @@ exit;
     </tr>
     <tr>
       <td align="right" valign="top">Username</td>
-      <td><input name="Username" type="text" class="Input"></td>
+      <td><input name="Username" type="text" class="form-group"></td>
     </tr>
     <tr>
       <td align="right">Password</td>
-      <td><input name="Password" type="password" class="Input"></td>
+      <td><input name="Password" type="password" class="form-group"></td>
     </tr>
     <tr>
       <td> </td>
-      <td><input name="Submit" type="submit" value="Login" class="Button3"></td>
+      <td><input name="Submit" type="submit" value="Login" class="form-group"></td>
     </tr>
   </table>
 </form>
+
+</body>
+  </html>

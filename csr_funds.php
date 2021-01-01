@@ -7,70 +7,6 @@
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/csr_funds.css">
     <style>
-        @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
-* {
-	box-sizing: border-box;
-}
-
-
-
-.course {
-	background-color: #fff;
-	border-radius: 10px;
-	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
-	display: flex;
-	max-width: 100%;
-	margin: 20px;
-	overflow: hidden;
-	width: 700px;
-}
-
-.course h6 {
-	opacity: 0.6;
-	margin: 0;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-}
-
-.course h2 {
-	letter-spacing: 1px;
-	margin: 10px 0;
-}
-
-.course-preview {
-	background-color: #2A265F;
-	color: #fff;
-	padding: 30px;
-	max-width: 500px;
-}
-
-.course-preview a {
-	color: #fff;
-	display: inline-block;
-	font-size: 12px;
-	opacity: 0.6;
-	margin-top: 30px;
-	text-decoration: none;
-}
-
-.course-info {
-	padding: 30px;
-	width: 100%;
-}
-
-.btn {
-	background-color: #2A265F;
-	border: 0;
-	border-radius: 50px;
-	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
-	color: #fff;
-	font-size: 16px;
-	padding: 12px 25px;
-	bottom: 30px;
-	right: 30px;
-	letter-spacing: 1px;
-}
 
 
 </style>
@@ -80,7 +16,8 @@
 
 <?php require 'require/header.php';?>
 <?php require 'require/nav.php';?>
-<div class="row" >
+
+<div class="sds" >
 	<div class="container"> 		
         <div class="courses-container">
 			<div class="course">
