@@ -18,7 +18,7 @@
 <?php require 'require/nav.php';?>
 
 <div class="sds" >
-	<div class="container"> 		
+	<div class="container testing"> 		
         <div class="courses-container">
 			<div class="course">
 				<div class="course-preview">

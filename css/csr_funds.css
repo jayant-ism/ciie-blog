@@ -314,7 +314,10 @@ a {
 	max-width: 100%;
 	margin: 20px;
 	overflow: hidden;
-	width: 700px;
+  width: 700px;
+  margin:auto;
+  margin-top: 25px;
+  margin-bottom: 40px;
 }
 
 .course h6 {
@@ -330,8 +333,9 @@ a {
 }
 
 .course-preview {
-	background-color: #2A265F;
-	color: #fff;
+	background-color: #d1e8e2;
+  color: #116466;
+  font-weight: 600;
 	padding: 30px;
 	max-width: 500px;
 }
@@ -351,14 +355,18 @@ a {
 }
 
 .btn {
-	background-color: #2A265F;
+	background-color: #d1e8e2;
 	border: 0;
 	border-radius: 50px;
 	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
-	color: #fff;
+	color: #116466;
 	font-size: 16px;
 	padding: 12px 25px;
 	bottom: 30px;
 	right: 30px;
 	letter-spacing: 1px;
+}
+
+.footer{
+  margin-top: 40px;
 }
