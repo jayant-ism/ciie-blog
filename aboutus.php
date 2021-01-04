@@ -15,11 +15,11 @@
     <div class="containr">
 
         <main>
-            <div class="aboutus_head">
+            <div class="aboutus_head" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                 <p>ABOUT US</p>
             </div>
             <div class="aboutus_row">
-                <div class="aboutus_col1">
+                <div class="aboutus_col1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <div class="text_head">
                         <p>Mission & Vision</p>
                     </div>
@@ -29,7 +29,7 @@
                         <p>To motivate, build and promote out of the box thinking and development of innovative ideas. To build an environment that will facilitate the creation of social enterprise knowledge through research and empower students to apply their entrepreneurship abilities to develop solutions for greater social impact through academia.</p>
                     </div>
                 </div>
-                <div class="aboutus_col2">
+                <div class="aboutus_col2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <div class="text_head">
                         <p>Highlights</p>
                     </div>
@@ -70,7 +70,7 @@
 
 
             <div class="aboutus_row">
-                <div class="aboutus_col1"><div class="text_head">
+                <div class="aboutus_col1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);"><div class="text_head">
                         <p>Committee</p>
                     </div>
                     <div class="slideshow-container" style="padding-top: 50px;">
@@ -150,6 +150,8 @@
                           <span class="dot"></span> 
                           <span class="dot"></span> 
                           <span class="dot"></span> 
+                          <span class="dot"></span>
+                          <span class="dot"></span>
                         </div>
                         
                         <script>
@@ -180,12 +182,12 @@
         
                         
                         </script></div>
-                <div class="aboutus_col2"><div class="text_head">
+                <div class="aboutus_col2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);"><div class="text_head">
                         <p>Core Team</p>
                     </div></div>
             </div>
             <div class="aboutus_row">
-                <div class="aboutus_col3"><div class="text_head">
+                <div class="aboutus_col3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);"><div class="text_head">
                     <p>Support</p>
                 </div></div>
             </div>
@@ -277,7 +279,7 @@
           }
         }
 
-
+        
 
     </style>
     

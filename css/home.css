@@ -7,6 +7,38 @@ header {
     background-color: #e8e8db;
 }
 
+.achieve_trophy{
+    margin: 0 auto;
+    margin-top: 4px;
+    width: 90%;
+    height: 500px;
+    background-size: 100% 100%;
+    background-image: radial-gradient( rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.4)), url('../images/insti-img.jpeg') ;
+    
+    border-radius: 2%;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+  
+  }
+  
+  .texts{
+    
+    width: 40%;
+    font-weight: 1000;
+    color: #2c3531;
+    margin-left: 10%;
+  }
+  .texts h2{
+    font-size: 5em;
+  }
+  @media only screen and (max-width: 395px){
+    .achieve_trophy {
+      width: 340px;
+    }
+    .achieve_head{
+      width: 340px;
+    }
+  
+  }
 header p{
     font-family: 'Calibri', sans-serif;
     color: #116466;

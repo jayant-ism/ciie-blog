@@ -6,7 +6,7 @@
     <title>home-ciie</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/reset.css">
+   
     <link rel="stylesheet" href="css/home.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -19,11 +19,14 @@
         <?php require 'require/nav.php';?>
 
         <main>
-            <div class="insti_img">
-                <img src="images/insti-img.jpeg" alt="insti-img">
+            
+            <div class="achieve_trophy ">
+              <div class="texts">
+                <h2>CIIE</h2>
+                <hr style="border-top: 1px solid rgb(107, 103, 103); ">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias nisi eum explicabo consectetur ut eligendi consequatur laudantium, accusantium tempore deleniti, corrupti quos officia a</p>
+              </div>
             </div>
-
-
 
             <!-- about us box commented for now -->
 
@@ -43,13 +46,13 @@
 
 
 
-            <div class="img_slider">
+            <div class="img_slider" style="margin-top: 100px;" >
                 
                 <div class="slideshow-container" style="padding-top: 50px;">
                 
-                <div class="mySlides fade ">
+                <div class="mySlides fade " >
                   
-                  <div class="card">
+                  <div class="card" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <img src="images/sampleimage.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
                     <div class="container">
                         <div class="text"><p>Caption One</p></div>
@@ -60,7 +63,7 @@
                 
                 <div class="mySlides fade ">
                   
-                  <div class="card">
+                  <div class="card" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <img src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
                     <div class="container">
                         <div class="text"><p>Caption Two</p></div>
@@ -71,7 +74,7 @@
                 
                 <div class="mySlides fade ">
                   
-                  <div class="card">
+                  <div class="card" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <img src="images/members.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
                     <div class="container">
                         <div class="text"><p>Caption Three</p></div>
@@ -130,13 +133,13 @@
                     <p>OBJECTIVES</p>
                 </div>
                 <div class="obj_box"> 
-                <div class="obj_box1">
+                <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <p>Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
                 </div>
-                <div class="obj_box2">
+                <div class="obj_box2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <p>Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
                 </div>
-                <div class="obj_box3">
+                <div class="obj_box3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <p>Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
                 </div>
                 </div>
