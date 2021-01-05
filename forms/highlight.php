@@ -1,12 +1,12 @@
 <?php require '../formRestriction/userChecking.php';?>
 <?php
 // define variables and set to empty values
-$title = $name = $description = $imgurl= "";
+$title = $text = $detailLink = $imgurl= "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $title = test_input($_POST["title"]);
-  $name = test_input($_POST["name"]);
-  $description = test_input($_POST["description"]);
+  $name = test_input($_POST["text"]);
+  $description = test_input($_POST["detailLink"]);
   $imgurl = test_input($_POST["imgurl"]);
 
 }
@@ -20,7 +20,7 @@ function test_input($data) {
 
 error_reporting(0);
 require_once "../Classes/PHPExcel.php";
-$excel= PHPExcel_IOFactory::load("../achievementdata.xlsx");
+$excel= PHPExcel_IOFactory::load("../highlightdata.xlsx");
 //Get the first sheet in excel
 $excel->setActiveSheetIndex(0);
 
@@ -37,15 +37,15 @@ $excel->getActiveSheet()->SetCellValue('D'.$i, $description);
 $excel->getActiveSheet()->SetCellValue('D'.$i, $imgurl); 
 // saving
 $writer = PHPExcel_IOFactory::createWriter($excel, "Excel2007");
-$writer->save("../achievementdata.xlsx");
+$writer->save("../highlightdata.xlsx");
 ?>
 Congratulation! You have logged into password protected page. <a href="logout.php">Click here</a> to Logout.
 
 <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post" enctype="multipart/form-data">
     
     <input class="form-control" type="text" name="title" placeholder="Title" required><br>
-    <input class="form-control" type="text" name= "name" placeholder="Name" required><br>
-    <textarea class="form-control" name= "description" placeholder="description" rows="3" required></textarea><br>
+    <input class="form-control" type="text" name= "text" placeholder="Text" required><br>
+    <input class="form-control" name= "detailLink" placeholder="detailLink" required><br>
     <input class="form-control" type="text" name= "imgurl" placeholder="imgurl" required><br>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
 </form>
