@@ -30,6 +30,28 @@ exit;
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body{
+            background-color:#d1e8e2;
+            font-family: 'Calibri'
+        }
+
+        .form{
+          align:center;
+        }
+        
+        h3{
+          text-align:center;
+          font-size:4rem;
+          margin-top:15%;
+        }
+
+        @media (max-width:500px){
+          
+
+        }
+
+    </style>
     <title>Login-ciie</title>
 </head>
 <body>
@@ -44,8 +66,8 @@ exit;
       <td colspan="2" align="left" valign="top"><h3>Login</h3></td>
     </tr>
     <tr>
-      <td align="right" valign="top">Username</td>
-      <td><input name="Username" type="text" class="form-group"></td>
+      <td align="right" style="width:45%" valign="top">Username</td>
+      <td style="width:55%"><input name="Username" type="text" class="form-group"></td>
     </tr>
     <tr>
       <td align="right">Password</td>
