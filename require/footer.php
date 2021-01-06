@@ -1,4 +1,9 @@
 <footer >
+    <style>
+        .footer_info p{
+            font-size: 15px ; 
+        }
+        </style>
             <div class="footer_info">
                 <div class="explore">
                     <div class="footer_head">
