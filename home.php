@@ -426,8 +426,45 @@ In case of part-time involvement with a startup/enterprise, it is expected that 
         Students, including research scholars with live registration at IIT (ISM) Dhanbad may engage with startups/enterprises in following modes:
             <ul>
                 <li>a) Full time involvement: A research scholar/student can seek special leave for a semester, or an additional period to work for a Start-up on a fulltime basis. Upon returning, the student must satisfy all norms (including the maximum duration of his/her respective programme of the study) in order to earn a degree. If the research scholar/students is compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad</li></ul>
-            </p></li>
-            </ul>
+            </li>
+    <li>b) Part-time involvement: A research scholar/students can seek permission to work for a start-up on part time basis. In such cases, IIT (ISM) Dhanbad’s part-time engagement norms in projects during a semester/vacation period will apply. If the research scholar/students is
+
+compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad</li><br><br>
+        When a member of IIT (ISM) Dhanbad utilizes leave of absence (Sabbatical or any applicable equivalent) for direct, active participation in a startup or enterprise, it is obligatory that the concerned Head(s) of Department be informed at least three months in advance. Shorter notice needs to be specifically approved by the Head of Department. This is to ensure that the academic programmes of the institute are not affected.</p>
+            
+    <li><h3>Conflict of Interest</h3>
+        <p>
+            It is essential that members of IIT (ISM) Dhanbad avoid any conflict of interest between their roles in the institute and in the enterprise/startup. Conflict of interest may arise on account of following:
+        <ul>
+            <li>Institute’s resources are in control of the member and are also sought by the Start-up/enterprise with which they are involved</li>
+            <li>Member has been developing IPR in a research activity / project at IIT (ISM) Dhanbad that is closely related to the IPR they may be developing when on leave and working in the Start-up/enterprise</li>
+            <li>Relative shareholding of the member and IIT (ISM) Dhanbad is sought to be changed by infusion of fresh capital in the Start-up by the member</li>
+            <li>Shares of the startup/enterprise are allotted to a close relative (spouse, children, parents) of a member who is involved with the Start-up/enterprise</li>
+            
+        </ul>
+    </p>
+     <p>
+        <ul>
+           For each member of IIT (ISM) who applies for approval for engaging with a Start-up, CIIE may do following to avoid conflict of interest:
+            <li>Determine potential areas/activities where there is conflict of interest and arrive at an agreed upon methodology for ensuring transparency in decision making in respect of these activities/areas</li>
+            <li>Set up an - oversight committee of Faculty / Staff for specific relationships to ensure that conflicts of interest do not arise</li>
+            <li>Require the member to declare their financial interests, and those of their close relatives, in the Start-up, at the time of engagement, as well as whenever a change in such interests takes
+13
+place due to additional investment in the Start-up, or payment / share allotment by the Startup</li><br>
+            In case a member of the CIIE Governing Council has shares in a startup/enterprise, the Governing Council will determine whether the said member should resign from the Council, in order to avoid potential conflict of interest, or only recuse himself /herself when matters pertaining to the Start-up with which he / she is involved are discussed.
+    </ul>
+        
+        </p></li>
+    </ul>
+    <h2> Other Terms and Conditions:</h2>
+<ul>
+    <li>a) Seed loan, if sanctioned, shall be sanctioned only to the incubated companies. The sanction shall be subject to performance of and milestones achieved by the incubate company. A company desirous of obtaining a seed loan may submit an application for seed fund after three months of incubation. The application of the seed loan should clearly indicate the requirement, activities, expenditure heads and timelines</li>
+    <li>b) Services, facilities, laboratory, and equipment etc. may be provided by the institute or the empaneled service providers. Provision and use of the facilities may be governed by availability of the same and rules and regulations of the institute</li>
+    <li>c)CIIE shall evaluate the performance of incubates every quarter to assess whether incubatees have been meeting the milestones specified in incubation application. Incubatees having availed seed fund would also be evaluated for financial health of the company, including but not restricted to order booking, expenses, profitability, utilization of seed money loan for the specified purposes and its ability to repay the loan. Further disbursal of seed fund may be depend on progress shown in previous appraisal</li>
+    <li>d)Any company that is engaged in or is proposing to be engaged in activities that may be in conflict with activities of IIT (ISM) Dhanbad like imparting educational courses and/or training programs shall require explicit permission from IIT (ISM) Dhanbad in order to be eligible for incubation</li>
+    <li>e)Incubatee shall surrender and vacate the premises on IIT(ISM) on a notice by CIIE no advance notice is required to be given by CIIE to the resident company</li>
+    <li>f) Notwithstanding anything contained in the policy framework, all activities at CIIE and of incubatees activities shall be governed by the statute, rules and regulations of IIT (ISM) Dhanbad as applicable from time to time. In case of any conflict the statute, rules and regulations of IIT (ISM) Dhanbad shall prevail over policy of CIIE</li>
+</ul>
             
             </div>
 
