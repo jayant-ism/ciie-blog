@@ -135,18 +135,18 @@
             </div>
 
             <div class="obj">
-                <div class="obj_title" >
-                    <h1>OBJECTIVES</h1>
+                <div class="obj_title">
+                    <p>OBJECTIVES</p>
                 </div>
                 <div class="obj_box"> 
                 <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <p style="font-size:18px;">Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
+                    <p>Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
                 </div>
                 <div class="obj_box2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <p  style="font-size:18px;">Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
+                    <p>Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
                 </div>
                 <div class="obj_box3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <p  style="font-size:18px;">Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
+                    <p>Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
                 </div>
                 </div>
             </div>
@@ -175,9 +175,15 @@
             </div>
               -->
 
-              <div class="container borders">
+            <div class="container">
+                <h1>Mission of CIIE:</h1>
+<p>To unleash entrepreneurial capacity and facilitate start-ups, with the hope that the new business entities will generate economic value and employment for the country as well as find practical business solutions to social and environmental challenges of current times.</p>
+            </div>
+            
+            
+              <div class="container">
               <h1> 	Scope of Activities of CIIE </h1>
-
+                  <p> CIIE would be involved in following three broad set of activities:</p>
                <ul>
                <li>
                <p> a)	Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.   </p>
@@ -192,23 +198,19 @@
               </div> 
 
 
-                <div class="container borders">
-                  <h1> POLICY AND PROCEDURE  </h1> 
+                <div class="container">
+                  <h1>INCUBATING WITH CIIE: POLICY AND PROCEDURE  </h1> 
                   <p>CIIE seeks to support ventures from start-up phrase to scaling of operations by providing necessary support and help entrepreneurs. Ventures supported by CIIE may be set up for commercialization of a technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. 
 Ventures from any academic discipline will be welcome at CIIE, including but not restricted to Mining Engineering, Petroleum Engineering, Earth System Sciences, Geo-Physics, Information and Communication Technology (ICT), Biotechnology, Food Technology, Agriculture and allied sectors. 
 Likewise, ventures aiming at making social impact could be working towards any of the prominent issues faced by society, including but not restricted to modernizing agricultural practices, greater economic opportunities for women, greater employment opportunities for youth and overcoming social divides. 
  </p> 
-                  </div>
-                  <div class="container borders">
-                  <h1>Incubation Process at CIIE: </h1>
+
+                  <h2>Incubation Process at CIIE: </h2>
                   <p> To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
 The application would then be screened at CIIE by an evaluation committee and examined for   financial and technical feasibility. If cleared in first round of screening, applicants may be invited to present their ideas before a select panel. 
 If selected for incubation, incubatees would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of agreement, incubatees would be allotted facilities at CIIE subject to availability and need of incubate, after which incubatees can start the process of incubation.  
  </p> 
-                  
- </div>
-                  <div class="container borders">
-                  <h1> Support offered by CIIE:  </h1>
+                  <h2> Support offered by CIIE:  </h2>
                   <p> CIIE will actively support its incubatees through a combination of inputs, which could include: 
                   
                   <ul> 
@@ -221,10 +223,8 @@ If selected for incubation, incubatees would sign an incubation agreement contai
                   <li> <p> g)	Networking support:  Meetings with visitors of IIT (ISM), Dhanbad (such as academics, alumni, venture capitalists, industry professionals etc.), showcasing work in networking events </p> </li> 
                   </ul></p>
 
-                
-                  </div>
-                  <div class="container borders">
-                  <h1> Intended Beneficiarie </h1>
+
+                  <h2> Intended Beneficiarie </h2>
                   <p>
                   CIIE will extend support to a broad base of innovators and aspiring start-ups. Incubatees may include but not be restricted to:
                   <ul> 
@@ -238,15 +238,61 @@ If selected for incubation, incubatees would sign an incubation agreement contai
                   <li> <p> b)	Turnover of the entity for any of the financial years since incorporation/registration has not exceeded one hundred crore rupees</p> <li> 
                   <li> <p>c)	Has not been formed by splitting up or reconstruction of an existing business </p> <li> 
                   </ul>
+                   <P>
                   CIIE may allow non-registered entities under its ‘pre-incubation’ scheme. Pre-incubation scheme is intended to help students and budding entrepreneurs to test their ideas before committing to a registered business entity. Support provided to pre-incubatees may differ from support provided to regular incubatees and would be decided on a case-to-case basis. 
+                   </P>
 
+            
+                  <h2>Rules governing Intellectual Property, Licensing and Technology Commercialization: </h2>
+                  <p>
+                      Intellectual property (IP) refers to intangible creations of the human intellect. In context of innovation and entrepreneurship, IP may include but not be restricted to confidential information, patents, designs, process, copyrights, algorithms, apparatus, circuit designs and assemblies, concepts, data, databases and data collections, designs, diagrams, documentation, drawings, flow charts, formulae, gate arrays, ideas and inventions (whether or not patentable or reduced to practice), know-how, materials, marketing and development plans, marks (including registered and unregistered trademarks and service marks, brand names, product names, logos, and slogans), methods, models, net lists, network configurations and architectures, photo masks, procedures, processes, systems, architecture, instructions, protocols, schematics, semiconductor devices, software code (in any form including source
 
-                  </p>
-
- </p> 
-                  <h1>  </h1>
-                  <p> </p> 
-                  
+code and executable or object code), specifications, subroutines, techniques, test vectors, tools, uniform resource identifiers, user interfaces, web sites, works of authorship, and other forms of technology.
+<br><br>Licensing could be in form of Intellectual Property Rights (IPR) Licensing or Technology Licensing. IPR licensing refers to partnership between an intellectual property rights owner and another who is authorized to use such rights (licensee) in exchange for an agreed payment (fee or royalty). Technology licensing refers to an agreement whereby an owner of a technological intellectual property (the licensor) allows another party (the licensee) to use, modify, and/or resell that property in exchange for a compensation.
+                   </p> 
+                   <h3>Ownership of Intellectual property:</h3>
+                   <p>
+                       a) Enterprises by IIT (ISM) Dhanbad member: For enterprises or startups promoted and/or invested in by IIT (ISM) members singly or jointly with others, ownership of intellectual property generated during the incubation term shall be governed by IP rules of IIT (ISM) Dhanbad.
+<br><br>As per IP rules of IIT (ISM) Dhanbad, intellectual property of any kind created by faculty, students (including trainees participating in any programmes), staff (including project staff), visitors and others would be owned by IIT (ISM) Dhanbad when either of the following apply:
+                   </p>
+                   <ul>
+                       <li>IP was created through significant use of funds or facilities administered by IIT (ISM) Dhanbad</li>
+                       <li>IP was created either as a part of the normal professional duty or work for hire</li>
+                       <li>IP was created as a part of academic research and programmes or training leading towards a degree or otherwise (e.g. Project Courses)</li>
+                       <li>IP was created in collaboration with or using help of faculty of IIT (ISM) Dhanbad</li>
+                   </ul>
+                   <p>
+                       The terms ‘significant use of funds and facilities’ and ‘faculty collaboration’ are context specific and shall be defined by Intellectual Property Evaluation Committee on case-to-case basis.<br><br>
+Alternatively, enterprise(s) promoted by IIT (ISM) Dhanbad members may enter into a contract with IIT (ISM) Dhanbad specifying sharing rights for the IP. In that case IP ownership would be governed by provisions of the contract.
+ <br><br>
+                       In cases where an IP is created by IIT (ISM) Dhanbad faculty or staff fully or as a part of the team, during deputation or official leave, the concerned IIT (ISM), DHANBAD personnel should officially communicate about the IP to the institute. Ownership of such IP shall be decided by the institute on case-to-case basis.
+                   </p>
+                   <p>
+                       b) For external startups, i.e. enterprise or start-up promoted and invested in by non-IIT(ISM) Dhanbad members, intellectual property generated during the incubation term shall be owned by the company. or at the disposal of the board of the company.
+<br>However, institute’s policy regarding intellectual property shall apply in case of:
+                   </p>
+                   <p>
+                       <ul>
+                           <li>Contribution from faculty of IIT (ISM) Dhanbad towards development of the intellectual property</li>
+                           <li>Non-payment of utilization charges if the intellectual property was developed using funds, facilities and laboratory/equipment of IIT (ISM) Dhanbad</li>
+                   </ul>
+                   
+                   <h3>Use of Intellectual property</h3>
+                   <p>
+                       a) For IP solely owned by IIT (ISM) Dhanbad: For IP held solely by IIT (ISM) Dhanbad the institute may decide upon use of IP and commercialization of technology in one of the following ways:
+                   </p>
+                   <p>
+                       <ul>
+                           <li>In cases where student is creator or inventor of the IP, IIT (ISM) Dhanbad may grant a non-exclusive license for commercialization</li>
+                           <li>For such startups/enterprises IIT (ISM) Dhanbad may waive off the requirement of up-front payment of royalty, based on request by the organisation</li>
+                           <li>In cases where royalty or license fee are not waived off, organisation may request for deferring the payment. In that case, institute may enter into agreement for sharing of revenue generated due to commercialisation of technology.<br>
+                                       Revenue sharing mechanism may be as follows:<li>
+                   </ul>
+                   </p>
+                  <table>
+                      <tr>
+                          <th>Case</th>
+                      <table>
 
 <!-- here --> 
                 </div>
@@ -328,7 +374,10 @@ If selected for incubation, incubatees would sign an incubation agreement contai
 
 
 
-            </div> 
+            </div>
+            <div class="container">
+
+            </div>  
         </main>
                 
 
@@ -358,15 +407,6 @@ If selected for incubation, incubatees would sign an incubation agreement contai
 .container {
  padding: 16px;
  
-}
-
-.borders {
-  border-radius: 6; 
-  padding: 20px ; 
-  margin-top :  30px ;
-  margin-bottom : 20px ;  
-  border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
-
 }
         * {box-sizing: border-box;}
         body {font-family: Verdana, sans-serif;}
