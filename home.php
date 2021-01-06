@@ -134,18 +134,18 @@
             </div>
 
             <div class="obj">
-                <div class="obj_title">
-                    <p>OBJECTIVES</p>
+                <div class="obj_title" >
+                    <h1>OBJECTIVES</h1>
                 </div>
                 <div class="obj_box"> 
                 <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <p>Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
+                    <p style="font-size:18px;">Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
                 </div>
                 <div class="obj_box2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <p>Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
+                    <p  style="font-size:18px;">Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
                 </div>
                 <div class="obj_box3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <p>Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
+                    <p  style="font-size:18px;">Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
                 </div>
                 </div>
             </div>
@@ -174,7 +174,7 @@
             </div>
               -->
 
-              <div class="container">
+              <div class="container borders">
               <h1> 	Scope of Activities of CIIE </h1>
 
                <ul>
@@ -191,18 +191,22 @@
               </div> 
 
 
-                <div class="container">
+                <div class="container borders">
                   <h1> POLICY AND PROCEDURE  </h1> 
                   <p>CIIE seeks to support ventures from start-up phrase to scaling of operations by providing necessary support and help entrepreneurs. Ventures supported by CIIE may be set up for commercialization of a technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. 
 Ventures from any academic discipline will be welcome at CIIE, including but not restricted to Mining Engineering, Petroleum Engineering, Earth System Sciences, Geo-Physics, Information and Communication Technology (ICT), Biotechnology, Food Technology, Agriculture and allied sectors. 
 Likewise, ventures aiming at making social impact could be working towards any of the prominent issues faced by society, including but not restricted to modernizing agricultural practices, greater economic opportunities for women, greater employment opportunities for youth and overcoming social divides. 
  </p> 
-
+                  </div>
+                  <div class="container borders">
                   <h1>Incubation Process at CIIE: </h1>
                   <p> To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
 The application would then be screened at CIIE by an evaluation committee and examined for   financial and technical feasibility. If cleared in first round of screening, applicants may be invited to present their ideas before a select panel. 
 If selected for incubation, incubatees would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of agreement, incubatees would be allotted facilities at CIIE subject to availability and need of incubate, after which incubatees can start the process of incubation.  
  </p> 
+                  
+ </div>
+                  <div class="container borders">
                   <h1> Support offered by CIIE:  </h1>
                   <p> CIIE will actively support its incubatees through a combination of inputs, which could include: 
                   
@@ -216,7 +220,9 @@ If selected for incubation, incubatees would sign an incubation agreement contai
                   <li> <p> g)	Networking support:  Meetings with visitors of IIT (ISM), Dhanbad (such as academics, alumni, venture capitalists, industry professionals etc.), showcasing work in networking events </p> </li> 
                   </ul></p>
 
-
+                
+                  </div>
+                  <div class="container borders">
                   <h1> Intended Beneficiarie </h1>
                   <p>
                   CIIE will extend support to a broad base of innovators and aspiring start-ups. Incubatees may include but not be restricted to:
@@ -321,10 +327,7 @@ If selected for incubation, incubatees would sign an incubation agreement contai
 
 
 
-            </div>
-            <div class="container">
-
-            </div>  
+            </div> 
         </main>
         <?php require 'require/footer.php';?>
     </div>
@@ -351,6 +354,15 @@ If selected for incubation, incubatees would sign an incubation agreement contai
 .container {
  padding: 16px;
  
+}
+
+.borders {
+  border-radius: 6; 
+  padding: 20px ; 
+  margin-top :  30px ;
+  margin-bottom : 20px ;  
+  border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+
 }
         * {box-sizing: border-box;}
         body {font-family: Verdana, sans-serif;}
