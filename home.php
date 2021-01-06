@@ -24,7 +24,7 @@
               <div class="texts">
                 <h2>CIIE</h2>
                 <hr style="border-top: 1px solid rgb(107, 103, 103); ">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
               </div>
             </div>
 
@@ -50,10 +50,10 @@
                 
                 <div class="slideshow-container" style="padding-top: 50px;">
                 
-                <div class="mySlides fade " >
+                <div class="mySlides fade" >
                   
-                  <div class="card" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <img src="images/sampleimage.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
+                  <div class="card" >
+                    <img class="fade" src="images/sampleimage.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
                     <div class="container">
                         <div class="text"><p>Caption One</p></div>
                     </div>
@@ -63,10 +63,10 @@
                 
                 <div class="mySlides fade ">
                   
-                  <div class="card" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <img src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
+                  <div  class="card" >
+                    <img class="fade" src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
                     <div class="container">
-                        <div class="text"><p>Caption Two</p></div>
+                        <div class="text" ><p>Caption Two</p></div>
                     </div>
                   </div>
                   
@@ -74,8 +74,8 @@
                 
                 <div class="mySlides fade ">
                   
-                  <div class="card" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                    <img src="images/members.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
+                  <div class="card" >
+                    <img class="fade" src="images/members.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
                     <div class="container">
                         <div class="text"><p>Caption Three</p></div>
                     </div>
@@ -114,7 +114,7 @@
                   }
                   slides[slideIndex-1].style.display = "block";  
                   dots[slideIndex-1].className += " active";
-                  setTimeout(showSlides, 2000)
+                  setTimeout(showSlides, 4000)
                 }
                 
 
@@ -245,7 +245,6 @@
     <style>
             .card {
  
- box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
  transition: 0.6s;
  border-radius: 5%;
  width: 100%;
@@ -253,11 +252,7 @@
 }
 
 
-.card:hover {
- box-shadow: 0 10px 30px 0 rgba(0,51,0,0.2);
- background-color: #f2f2f2;
- 
-}
+
 
 .img_slider{
   background-color:white ;
@@ -317,26 +312,39 @@
         /* Fading animation */
         .fade {
           -webkit-animation-name: fade;
-          -webkit-animation-duration: 2.0s;
+          -webkit-animation-duration: 5.0s;
           animation-name: fade;
-          animation-duration: 2.0s;
-        }
-        
-        @-webkit-keyframes fade {
-          from {opacity: .4} 
-          to {opacity: 1}
+          animation-duration: 5.0s;
         }
         
         @keyframes fade {
-          from {opacity: .4} 
-          to {opacity: 1}
-        }
+   0% {
+      opacity: 0;
+      transform: translateX(-100%);
+      border-radius: 0%;
+   }
+   50% {
+      opacity: 1;
+      transform: translateX(0);
+
+      
+   }
+   100% {
+      opacity: 0;
+      transform: translateX(100%);
+      border-radius: 0%;
+      
+   }
+} 
         
         /* On smaller screens, decrease text size */
         @media only screen and (max-width: 600px) {
           .text {font-size: 11px}
           .mySlides{
               width:100%;
+          }
+          .card{
+            width: 70%;
           }
         }
         </style>

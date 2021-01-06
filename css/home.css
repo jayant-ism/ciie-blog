@@ -21,7 +21,7 @@ header {
   }
   @media only screen and (max-width: 600px){
     .achieve_trophy {
-      height: 350px;
+      height: 400px;
      
     }
   }
@@ -443,7 +443,7 @@ a {
     .aboutus_info2{
         display: none;
     }
-
+ 
     .obj_box{
         display: block;
     }

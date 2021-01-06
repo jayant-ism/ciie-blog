@@ -76,23 +76,25 @@
                     <div class="slideshow-container" style="padding-top: 50px;">
                             <!-- here --> 
                         
-                            <div class="mySlides fade ">
+                            <div class="mySlides">
                           
-                          <div class="card">
+                          <div class="card fade">
                             <img src="images/commit/Saumya_Singh.jpg" alt="Ciee" class="images">
+                          
                             <div class="container">
                                 <div class="text"><p>Saumya Singh <br> Head, CIIE <br>Associate Dean, Incubation and Entrepreneurship</p></div>
-                            </div>
+                           
                           </div>
-                          
+                        </div>
                         </div>
                         
 
 
-                            <div class="mySlides fade ">
+                            <div class="mySlides">
                           
-                          <div class="card">
+                          <div class="card fade">
                             <img src="images/commit/Aparna.jpg" alt="Ciee" class="images">
+                          
                             <div class="container">
                                 <div class="text"><p>Aparna Krishna<br> Faculty Coordinator, Website Development and Content and Graphic Designing</p></div>
                             </div>
@@ -102,42 +104,45 @@
                         
 
 
-                        <div class="mySlides fade ">
+                        <div class="mySlides">
                           
-                          <div class="card">
+                          <div class="card fade">
                             <img src="images/commit/N_Das.jpg" alt="Ciee" class="images">
+                          
                             <div class="container">
                                 <div class="text"><p>Niladri Das <br>Faculty Coordinator, Alumni and Industry Networking</p></div>
-                            </div>
+                           
                           </div>
-                          
+                        </div>
                         </div>
                         
 
 
                         
 
-                        <div class="mySlides fade ">
+                        <div class="mySlides">
                           
-                          <div class="card">
+                          <div class="card fade">
                                 <img src="images/commit/Shashank_Bansal.jpg" alt="Ciee" class="images" >
+                              
                                 <div class="container">
                                 <div class="text"><p>Shashank Bansal <br> Faculty Coordinator, Event Coordination </p></div>
-                            </div>
+                            
                           </div>
-                          
+                        </div>
                         </div>
                         
 
 
-                        <div class="mySlides fade ">
+                        <div class="mySlides ">
                           
-                          <div class="card">
+                          <div class="card fade">
                             <img src="images/commit/Shikha_Singh.jpg" alt="Ciee" class="images">
+                          
                             <div class="container">
                                 <div class="text"><p>Shikha Singh <br> Faculty Coordinator, Branding and Promotions </p></div>
-                            </div>
-                          </div>
+                            
+                          </div></div>
                           
                         </div>
                         
@@ -154,37 +159,160 @@
                           <span class="dot"></span>
                         </div>
                         
-                        <script>
-                        var slideIndex = 0;
-                        showSlides();
-                        
-                        function showSlides() {
-                          var i;
-                          var slides = document.getElementsByClassName("mySlides");
-                          
-                          var dots = document.getElementsByClassName("dot");
-                          for (i = 0; i < slides.length; i++) {
-                            
-                                slides[i].style.display = "none";
-                            
-                              
-                          }
-                          slideIndex++;
-                          if (slideIndex > slides.length) {slideIndex = 1}    
-                          for (i = 0; i < dots.length; i++) {
-                            dots[i].className = dots[i].className.replace(" active", "");
-                          }
-                          slides[slideIndex-1].style.display = "block";  
-                          dots[slideIndex-1].className += " active";
-                          setTimeout(showSlides, 2000)
-                        }
-                        
-        
-                        
-                        </script></div>
+                       </div>
                 <div class="aboutus_col2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);"><div class="text_head">
                         <p>Core Team</p>
-                    </div></div>
+                    </div><div class="slideshow-container" style="padding-top: 50px;">
+                      <!-- here --> 
+                  
+                      <div class="mySlides1 ">
+                    
+                    <div class="card fade1"> 
+                      <img src="images/commit/Saumya_Singh.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>Saumya Singh <br> Head, CIIE <br>Associate Dean, Incubation and Entrepreneurship</p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+
+
+                      <div class="mySlides1 ">
+                    
+                    <div class="card fade1">
+                      <img src="images/commit/Aparna.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>Aparna Krishna<br> Faculty Coordinator, Website Development and Content and Graphic Designing</p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+
+
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1">
+                       <img src="images/commit/N_Das.jpg" alt="Ciee" class="images">
+                      
+                      <div class="container">
+                          <div class="text"><p>Niladri Das <br>Faculty Coordinator, Alumni and Industry Networking</p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+
+
+                  
+
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1">
+                          <img src="images/commit/Shashank_Bansal.jpg" alt="Ciee" class="images" >
+                        
+                          <div class="container">
+                          <div class="text"><p>Shashank Bansal <br> Faculty Coordinator, Event Coordination </p></div>
+                        </div>
+                    </div>
+                    
+                  </div>
+                  
+
+
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1">
+                      <img src="images/commit/Shikha_Singh.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>Shikha Singh <br> Faculty Coordinator, Branding and Promotions </p></div>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  
+
+
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1">
+                      <img src="images/commit/Shashank_Bansal.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>Shikha Singh <br> Faculty Coordinator, Branding and Promotions </p></div>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  
+
+                  <!--  here -->
+                  </div>
+                  <br>
+                  
+                  <div style="text-align:center">
+                    <span class="dot1"></span> 
+                    <span class="dot1"></span> 
+                    <span class="dot1"></span> 
+                    <span class="dot1"></span>
+                    <span class="dot1"></span>
+                    <span class="dot1"></span>
+                  </div>
+                  
+                  <script>
+                  var slideIndex = 0;
+                  var slideIndex1 = 0;
+                  showSlides();
+                  
+                  function showSlides() {
+                    var i;
+                    var slides = document.getElementsByClassName("mySlides");
+                    var slides1 = document.getElementsByClassName("mySlides1");
+                    
+                    var dots = document.getElementsByClassName("dot");
+                    var dots1 = document.getElementsByClassName("dot1");
+                    for (i = 0; i < slides.length; i++) {
+                      
+                          slides[i].style.display = "none";
+                          
+                      
+                        
+                    }
+                    for (i = 0; i < slides1.length; i++) {
+                      
+                      
+                      slides1[i].style.display = "none";
+                  
+                    
+                }
+                    slideIndex++;
+                    if (slideIndex > slides.length) {slideIndex = 1}    
+                    for (i = 0; i < dots.length; i++) {
+                      dots[i].className = dots[i].className.replace(" active", "");
+                      
+                    }
+
+                    slideIndex1++;
+                    if (slideIndex1 > slides1.length) {slideIndex1 = 1}
+                    for (i = 0; i < dots1.length; i++) {
+                      dots1[i].className = dots1[i].className.replace(" active", "");
+                      
+                    }
+                   
+                    slides[slideIndex-1].style.display = "block";
+                    slides1[slideIndex1-1].style.display = "block";  
+                    dots[slideIndex-1].className += " active";
+                    dots1[slideIndex1-1].className += " active";
+                    setTimeout(showSlides, 4000)
+                  }
+                  
+  
+                  
+                  </script></div></div>
             </div>
             <div class="aboutus_row">
                 <div class="aboutus_col3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);"><div class="text_head">
@@ -197,7 +325,7 @@
 
     <style>
         .img_slider{
-    width: 100%;
+    width: 50%;
 }
 
 
@@ -252,32 +380,49 @@
         /* Fading animation */
         .fade {
           -webkit-animation-name: fade;
-          -webkit-animation-duration: 2.0s;
+          -webkit-animation-duration: 4.0s;
           animation-name: fade;
-          animation-duration: 2.0s;
+          animation-duration: 4.0s;
+        }
+        .fade1 {
+          -webkit-animation-name: fade1;
+          -webkit-animation-duration: 4.0s;
+          animation-name: fade1;
+          animation-duration: 4.0s;
         }
         
         .images{
             width:100%; height: 250px; border-radius: 5%;   margin-left: auto;  margin-right: auto; max-width:400px ;   display: block;
 
         }
-        @-webkit-keyframes fade {
-          from {opacity: .4} 
-          to {opacity: 1}
-        }
+        
         
         @keyframes fade {
-          from {opacity: .4} 
-          to {opacity: 1}
-        }
+   0% {
+      
+      transform: rotateY(-90deg);
+   }
+   
+   100% {
+     
+     transform: rotateY(90deg);
+  }
+}  
+        @keyframes fade1 {
+   0% {
+      
+      transform: rotateY(-90deg);
+   }
+   
+   100% {
+     
+     transform: rotateY(90deg);
+  }
+}  
+        
         
         /* On smaller screens, decrease text size */
-        @media only screen and (max-width: 600px) {
-          .text {font-size: 11px}
-          .mySlides{
-              width:100%;
-          }
-        }
+        
 
         
 
