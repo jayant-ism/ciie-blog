@@ -232,7 +232,7 @@ If selected for incubation, incubatees would sign an incubation agreement contai
                   <li> <p>c)	Has not been formed by splitting up or reconstruction of an existing business </p> <li> 
                   </ul>
                   CIIE may allow non-registered entities under its ‘pre-incubation’ scheme. Pre-incubation scheme is intended to help students and budding entrepreneurs to test their ideas before committing to a registered business entity. Support provided to pre-incubatees may differ from support provided to regular incubatees and would be decided on a case-to-case basis. 
-                  
+
 
                   </p>
 
@@ -241,7 +241,7 @@ If selected for incubation, incubatees would sign an incubation agreement contai
                   <p> </p> 
                   
 
-
+<!-- here --> 
                 </div>
 
 
@@ -408,7 +408,7 @@ If selected for incubation, incubatees would sign an incubation agreement contai
         @keyframes fade {
    0% {
       opacity: 0;
-      transform: translateX(-100%);
+      transform: translateX(-50%);
       border-radius: 0%;
    }
    50% {
@@ -419,7 +419,7 @@ If selected for incubation, incubatees would sign an incubation agreement contai
    }
    100% {
       opacity: 0;
-      transform: translateX(100%);
+      transform: translateX(50%);
       border-radius: 0%;
       
    }

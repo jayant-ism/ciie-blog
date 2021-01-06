@@ -400,31 +400,23 @@
         @keyframes fade {
    0% {
       
-      opacity:0 ;
+      transform: rotateY(-90deg);
    }
-   50% {
-     
-     opacity: 1;
-  }
    
    100% {
      
-     opacity: 0;
+     transform: rotateY(90deg);
   }
 }  
         @keyframes fade1 {
-          0% {
+   0% {
       
-      opacity:0 ;
+      transform: rotateY(-90deg);
    }
-   50% {
-     
-     opacity: 1;
-  }
    
    100% {
      
-     opacity: 0;
+     transform: rotateY(90deg);
   }
 }  
         
