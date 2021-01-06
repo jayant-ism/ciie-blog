@@ -367,7 +367,6 @@ a {
     font-size: 1.1rem;
     color: #116466;
     margin: 11%;
-    line-height: 1.3rem;
     text-align: center;
 }
 
@@ -462,11 +461,6 @@ a {
     .obj_box3{
         width: 80%;
         margin: auto;
-    }
-    
-    .obj_box p{
-        margin: 20px 8%;
-        padding: 20px 0px;
     }
     
     .mobile-view{
