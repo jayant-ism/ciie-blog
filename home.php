@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/home.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/7677280783.js"></script>
     
 </head>
 <body>
@@ -329,7 +330,10 @@ If selected for incubation, incubatees would sign an incubation agreement contai
 
             </div> 
         </main>
+                
+
         <?php require 'require/footer.php';?>
+
     </div>
 
 
