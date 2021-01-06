@@ -286,16 +286,150 @@ Alternatively, enterprise(s) promoted by IIT (ISM) Dhanbad members may enter int
                            <li>In cases where student is creator or inventor of the IP, IIT (ISM) Dhanbad may grant a non-exclusive license for commercialization</li>
                            <li>For such startups/enterprises IIT (ISM) Dhanbad may waive off the requirement of up-front payment of royalty, based on request by the organisation</li>
                            <li>In cases where royalty or license fee are not waived off, organisation may request for deferring the payment. In that case, institute may enter into agreement for sharing of revenue generated due to commercialisation of technology.<br>
-                                       Revenue sharing mechanism may be as follows:<li>
+                                       Revenue sharing mechanism may be as follows:<br><br>
+                            <table>
+            <tr>
+                <th>
+                    Case
+                </th>
+                <th>Total Sales</th>
+                <th>Percentage thereof</th>
+            </tr>
+            <tr>
+                <td>
+                    1.
+                </td>
+                <td>Not exceeding Rs.50 lakhs</td>
+                <td>Nil</td>
+            </tr>
+            <tr>
+                <td>
+                    2.
+                </td>
+                <td> Greater than Rs. 50 lakh,less than Rs.1 crore</td>
+                <td>1%</td>
+            </tr>
+            <tr>
+                <td>
+                    3.
+                </td>
+                <td> Greater than Rs 1 crore,less than Rs.2 crore</td>
+                <td>2%</td>
+            </tr>
+            <tr>
+                <td>
+                    4.
+                </td>
+                <td> Greater than Rs.2 crore,less than Rs. 5 crore</td>
+                <td>3%</td>
+            </tr>
+            <tr>
+                <td>
+                    5.
+                </td>
+                <td> Greater than Rs. 5 crore,less than 10 crore</td>
+                <td>4%</td>
+            </tr>
+            <tr>
+                <td>
+                    6.
+                </td>
+                <td> Greater than Rs. 10 crore</td>
+                <td>5%</td>
+            </tr>
+            
+        </table>
+                           </li>
+                           <li>Even when licensed to third party for commercialisation, IIT (ISM) Dhanbad shall retain a non-exclusive, free and irrevocable license to use the IP for teaching and research activities, consistent with confidentiality agreements wherever entered into by IIT (ISM) Dhanbad and the creator(s) or inventor(s)</li>
+                           <li>
+                           The net earnings from the commercialization of IP owned by IIT (ISM), DHANBAD would be shared with the inventors in following ratios:<br>
+                               <table></table>
+                           </li>
+                   
                    </ul>
                    </p>
-                  <table>
-                      <tr>
-                          <th>Case</th>
-                      <table>
-
-<!-- here --> 
-                </div>
+                  <p>The creator(s) share would be declared annually, and disbursement will be made to the creator(s), their legal heir, whether or not the creators are associated with IIT (ISM) Dhanbad at the time of disbursement.<br>
+Co-creators of IP shall sign at the time of disclosure, a distribution of IP Earnings’ Agreement, which shall specify the percentage distribution of earnings from IP to each co-inventor. The inventors may at any time by mutual consent revise the Distribution of IP Earnings Agreement.</p>
+                <p>b) For other types of IP ownership: when not held solely by IIT (ISM) Dhanbad, use and licensing of IP may be subject to following conditions:
+                  <ul>
+                     
+         <li>In cases of IP held jointly between IIT (ISM) Dhanbad and third party, a ‘no objection’ certificate will have to be obtained before granting license for commercialization</li>
+                      <li>In cases of IP solely held by external startups, the organisations would have complete rights to collaborate with other companies and sell or share or the IP rights</li>       
+                  </ul>
+                        
+                    </p>
+            <h2>Consideration:</h2>
+            <ul>
+                <li>
+            <p>In cases of IP solely held by external startups, the organisations would have complete rights to collaborate with other companies and sell or share or the IP rights
+            <table>
+            </table>
+            Charges may change from time to time</p><li>
+            <li>b) Charges for various facilities shall be payable strictly within seven days from date of communication. In case of default in payment, company may be charged 12% interest compounded quarterly or asked to issue dilutable equity</li>
+            <!-- here --> <li>IIT(ISM) Dhanbad shall have lien on the assets of the resident company at the incubation center till such time that the resident company clears all the outstanding dues</li>
+               <li>In lieu of support by CIIE, incubatee is required to provide a dilutable equity to IIT (ISM) Dhanbad. At the time of disposal, the decision of CIIE / IIT(ISM) regarding buyback of full or part of the equity issued shall be conveyed to the company and the company shall abide by the decision. Dilutable equity to be provided by the enterprises:
+            <table></table>
+                   The dilutable equity shall be maintained in proportion to promoters’ equity. If promoters increase their shareholding then they shall give additional shares to IIT (ISM) Dhanbad to maintain the pre-determined level of equity. This clause shall not apply in case of third-party investment in the company
+                   </li>
+            <h2>
+            Terms of Financial Support</h2>
+            <ul>
+                <li>a) Option – I:<br>
+                Full amount would be paid back with an interest, which will be Prime Lending Rate (PLR) of State Bank of India (on the date of sanction) less 4% and remains fixed for the tenure of the loan. The loan amount along with interest will repaid in 36 EMIs (Equal Monthly Installments) and the repayment will start after 18 months from the date of first disbursement of loan</li>
+                <li>b) Option – II:<br>
+                    <ul><li>i. 50% of the total seed fund sanctioned will be interest free loan, repayment of which would start after 18 months from the date of first disbursement of loan. The component will be repaid in 36 EMIs</li>
+                    </ul></li>
+              <li>c) Option – III
+                  <ul>
+                      <li>i. 75% of the total seed fund sanctioned will be a loan and will repaid back with an interest of PLR less 6%. The loan amount along with interests will be repaid in 36 EMIs (Equal Monthly Instalments) and the repayment will start after 18 months from the date of first disbursement of loan.</li>
+                      <li>
+                          ii. 25% of the seed fund sanctioned would be convertible into equity (@ 2% equity against loan up to Rs. 5 lakhs) at par.
+                      </li>
+                  
+                  </ul>
+                </li>
+                <p>The company would have option to choose any one of the options are stated above and communicate to CIIE in writing. Once the option is chosen and communicated by the company, in no case it can be changed. In case of default payment, the entire loan amount will be converted into equity of 25% at par.
+In addition to the nominee director from IIT (ISM) against the incubation equity, there shall be one more nominee director from IIT (ISM) for the equity against seed fund disbursed.</p>
+            </ul>
+            <h2>Duration of Incubation:</h2>
+            <ul>
+                <li>a) Incubatee company shall be offered an incubation period of two years. However, based on the performance of the company and a written request the term can be extended by six months</li>
+                <li>b) Beneficiaries under pre-incubation scheme may avail the facilities allowed to them for a period of one year. However, based on progress made by the individual/group of individuals in moving the idea towards commercialization and a written request the term can be extended by six months</li>
+            </ul>
+            <h2>Entrepreneurship by members of IIT (ISM) Dhanbad</h2>
+            <p>IIT (ISM) Dhanbad strongly encourages its students, staff and faculty to engage in innovation and incubation activities, especially those directly towards translating research outcomes into commercial products. Following policy governs incubation and entrepreneurship activities of the members of the institute:</p>
+            <ul>
+                <li><h3>Incubation of organisations/enterprises founded by members of IIT (ISM) Dhanbad</h3>
+                    <p>
+                    A company founded by faculty, staff or students (including research scholars) of IIT (ISM) Dhanbad will necessarily be required for incubation in CIIE. However, in the exceptional cases, where a member of the institute wants to open the company outside institute, a sufficient justification has to be provided, which will be evaluated by a committee comprising of Dean (R&D), Dean (IRAA), HoC, CIIE and two faculty members. The recommendation of the committee will be final and binding.
+                    <br>For the incubation of an enterprise founded by member(s) of the institute, evaluation will be as per the incubators policy of the institute. Upon approval, the institute shall exercise its discretion on:
+                    </p>
+                <ul>
+                    <li>A liability free equity of 10 % in the company for a period of ten years. Against this equity, the institute shall permit the use of IP developed within IIT (ISM) by the founding faculty members and students</li>
+                    <li>Equity against incubation will be as per Incubators Policy of the institute, if the enterprise company is incubated at CIIE</li>
+                    <li>In case the institute provides loan to the company, Institute‘s rules will apply for its repayment/additional equity holding</li>
+                    </ul></li>
+                <li><h3>Modes of Faculty/Staff’s Engagement with Startups:</h3><br>
+                    <p>
+                    Faculty and staff may engage with startups/enterprises in following modes:<br>
+a) Capital Investment: Faculty / Staff may be involved in the Start-up by providing capital investment alone in return for shares, with no other managerial, technical or mentorship involvement whatsoever. All shares thus allotted can be retained by the concerned Faculty / Staff, and the transaction is treated as a purely private commercial transaction of no concern to the institute. The member must declare this to the institute and the organization so as to avoid conflict of interest situations</p>
+                 <br>   <p>b) Involvement beyond capital investment: in case a faculty/staff member chooses to play an operational role (technical advisor, CEO, marketing manager etc.) in an enterprise, he or she would have the option to take a sabbatical as per the prevailing rules of IIT (ISM) Dhanbad and work full time in the enterprise or may get involved with organization on part time basis.
+                    <ul>
+                        <li>In case of full-time involvement, no compensation is due to the institute, as long as the involvement of the member completely ceases after the leave period. Member must not involve himself or herself in any capacity with the enterprise, expect as a shareholder, upon re-joining the institute. In case the member is involved as a mentor or consultant etc., rules applicable will be same as that of part-time</li>
+                        <li>In case of part-time involvement, member may dedicate part or all of the days allocated for consultancy work to the business. However, under no circumstance the total number of days of non-institute activities would exceed the institute norms. Compensation to faculty or staff may be in cash, in which case norms of IIT (ISM) Dhanbad for consultancy projects may be applicable. If compensation is in form of shares of the start-up or enterprise then upto 20% of shares offered to faculty or staff shall be transferred to IIT (ISM) Dhanbad.
+In case of part-time involvement with a startup/enterprise, it is expected that the faculty/staff will balance the work his or her academic or administrative responsibilities as assigned by IIT (ISM) Dhanbad</li>
+                    </ul>
+                    </p>      
+                </li>
+        <li><h3>Modes of Students/research scholar’s Engagement with Startups:</h3>
+        <p>
+        Students, including research scholars with live registration at IIT (ISM) Dhanbad may engage with startups/enterprises in following modes:
+            <ul>
+                <li>a) Full time involvement: A research scholar/student can seek special leave for a semester, or an additional period to work for a Start-up on a fulltime basis. Upon returning, the student must satisfy all norms (including the maximum duration of his/her respective programme of the study) in order to earn a degree. If the research scholar/students is compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad</li></ul>
+            </p></li>
+            </ul>
+            
+            </div>
 
 
 
