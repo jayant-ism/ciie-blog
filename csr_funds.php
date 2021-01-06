@@ -6,11 +6,7 @@
     <title>csr_funds-ciie</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/csr_funds.css">
-    <style>
-
-
-</style>
-
+	<script src="https://use.fontawesome.com/7677280783.js"></script>
 </head>
 <body>
 

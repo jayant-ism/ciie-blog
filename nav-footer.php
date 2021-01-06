@@ -6,6 +6,7 @@
     <title>home-ciie</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/nav-footer.css">
+    <script src="https://use.fontawesome.com/7677280783.js"></script>
 </head>
 <body>
     <div class="container">
