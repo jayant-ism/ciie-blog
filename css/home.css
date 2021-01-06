@@ -312,7 +312,7 @@ a {
     font-size: 1.1rem;
     color: #116466;
     margin: 30px 4% 40px 4%;
-    line-height: 1.3rem;
+    /*line-height: 1.3rem;  */
 }
 
 .aboutus_info1 p{
@@ -329,7 +329,6 @@ a {
 }
 .obj_title{
     font-family: 'Agency FB';
-    font-size: 1.8rem;
     color: #d9b08c;
     padding-top: 30px;
     text-align: center;
@@ -364,7 +363,6 @@ a {
 
 .obj_box p{
     font-family: 'Calibri';
-    font-size: 1.1rem;
     color: #116466;
     margin: 11%;
     text-align: center;
@@ -468,3 +466,10 @@ a {
     }
 }
 
+
+.borders {
+    border-radius: 2px; 
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);    
+    margin-top: 20px ; 
+    margin-bottom : 30px ; 
+}
