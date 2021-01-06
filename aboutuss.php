@@ -6,7 +6,6 @@
     <title>About-ciie</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/aboutus.css">
-    <script src="https://use.fontawesome.com/7677280783.js"></script>
 </head>
 <body>
     
@@ -401,31 +400,23 @@
         @keyframes fade {
    0% {
       
-      opacity:0 ;
+      transform: rotateY(-90deg);
    }
-   50% {
-     
-     opacity: 1;
-  }
    
    100% {
      
-     opacity: 0;
+     transform: rotateY(90deg);
   }
 }  
         @keyframes fade1 {
-          0% {
+   0% {
       
-      opacity:0 ;
+      transform: rotateY(-90deg);
    }
-   50% {
-     
-     opacity: 1;
-  }
    
    100% {
      
-     opacity: 0;
+     transform: rotateY(90deg);
   }
 }  
         

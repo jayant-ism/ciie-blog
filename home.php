@@ -128,6 +128,11 @@
 
 
             </div>
+            <div class="container">
+            <p>
+            Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large. Goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making social and strategic impact.
+            </p>
+            </div>
 
             <div class="obj">
                 <div class="obj_title">
@@ -169,6 +174,86 @@
                 </div>
             </div>
               -->
+
+              <div class="container">
+              <h1> 	Scope of Activities of CIIE </h1>
+
+               <ul>
+               <li>
+               <p> a)	Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.   </p>
+               </li>
+               <li>
+               <p> b)	Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. </p>
+               </li>
+               <li>
+               <p> c)	Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
+               </li>
+               <ul>
+              </div> 
+
+
+                <div class="container">
+                  <h1> POLICY AND PROCEDURE  </h1> 
+                  <p>CIIE seeks to support ventures from start-up phrase to scaling of operations by providing necessary support and help entrepreneurs. Ventures supported by CIIE may be set up for commercialization of a technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. 
+Ventures from any academic discipline will be welcome at CIIE, including but not restricted to Mining Engineering, Petroleum Engineering, Earth System Sciences, Geo-Physics, Information and Communication Technology (ICT), Biotechnology, Food Technology, Agriculture and allied sectors. 
+Likewise, ventures aiming at making social impact could be working towards any of the prominent issues faced by society, including but not restricted to modernizing agricultural practices, greater economic opportunities for women, greater employment opportunities for youth and overcoming social divides. 
+ </p> 
+
+                  <h1>Incubation Process at CIIE: </h1>
+                  <p> To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
+The application would then be screened at CIIE by an evaluation committee and examined for   financial and technical feasibility. If cleared in first round of screening, applicants may be invited to present their ideas before a select panel. 
+If selected for incubation, incubatees would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of agreement, incubatees would be allotted facilities at CIIE subject to availability and need of incubate, after which incubatees can start the process of incubation.  
+ </p> 
+                  <h1> Support offered by CIIE:  </h1>
+                  <p> CIIE will actively support its incubatees through a combination of inputs, which could include: 
+                  
+                  <ul> 
+                  <li> <p> a)	Branding: permission to use branding in form of ‘IIT (ISM) Dhanbad Incubated Company’ or ‘Incubated by IIT (ISM) Dhanbad’ </p> </li> 
+                  <li> <p> b)	Office space and infrastructure: Shared office space at CIIE , computer and related equipment (personal computer, laptop, printer etc.)1, basic furniture (table and chair) and common services and facilities at CIIE (secretarial services, video and teleconferencing, conference room)</p> </li> 
+                  <li> <p> c)	Financial support: Seed funding (subject to availability of funds, grants and schemes), introduction to angel investors, venture capitalists and financial institutions </p> </li> 
+                  <li> <p> d)	Business support services: facilitation in technology development, ideation, creativity and design thinking, financial management, cash-flow management, new venture planning, business development, product development, product costing, marketing, brand development, human resource management, law and regulations for businesses etc. </p> </li> 
+                  <li> <p> e)	Permission to use library, laboratories, workshop facilities, equipment and intellectual resources at IIT (ISM) Dhanbad </p> </li>   
+                  <li> <p> f)	Mentoring through institute faculty and alumni and experts from industry</p> </li> 
+                  <li> <p> g)	Networking support:  Meetings with visitors of IIT (ISM), Dhanbad (such as academics, alumni, venture capitalists, industry professionals etc.), showcasing work in networking events </p> </li> 
+                  </ul></p>
+
+
+                  <h1> Intended Beneficiarie </h1>
+                  <p>
+                  CIIE will extend support to a broad base of innovators and aspiring start-ups. Incubatees may include but not be restricted to:
+                  <ul> 
+                  <li> <p>a)	IIT (ISM) Dhanbad member: Any permanent faculty or staff (on duty or on short/long leave), research scholars, students with live registration, alumni </p> <li> 
+                  <li> <p> b)	IIT (ISM) Dhanbad Incubation Enterprise/startup: Enterprise or startup promoted and/or invested in by IIT (ISM) members singly or jointly with others</p> <li> 
+                  <li> <p> c)	External Startups:  Enterprise or startup promoted and invested in by non-IIT(ISM) Dhanbad members </p> <li> 
+                   </ul>
+                  An entity shall be considered as a startup:
+                  <ul> 
+                  <li> <p>a)	Upto a period of ten years from the date of incorporation/registration, if it is incorporated as a private limited company (as defined in the Companies Act, 2013) or registered as a partnership firm (registered under section 59 of the Partnership Act, 1932) or a limited liability partnership (under the Limited Liability Partnership Act, 2008) or a section 25 company (as defined in the Companies Act, 2013) in India </p> <li> 
+                  <li> <p> b)	Turnover of the entity for any of the financial years since incorporation/registration has not exceeded one hundred crore rupees</p> <li> 
+                  <li> <p>c)	Has not been formed by splitting up or reconstruction of an existing business </p> <li> 
+                  </ul>
+                  CIIE may allow non-registered entities under its ‘pre-incubation’ scheme. Pre-incubation scheme is intended to help students and budding entrepreneurs to test their ideas before committing to a registered business entity. Support provided to pre-incubatees may differ from support provided to regular incubatees and would be decided on a case-to-case basis. 
+
+
+                  </p>
+
+ </p> 
+                  <h1>  </h1>
+                  <p> </p> 
+                  
+
+<!-- here --> 
+                </div>
+
+
+
+
+
+
+
+
+
+
             <div class="faq">
                 <div class="faq_head">
                     <p>FREQUENTLY ASKED QUESTIONS ?</p>
@@ -238,6 +323,9 @@
 
 
             </div>
+            <div class="container">
+
+            </div>  
         </main>
                 
 
@@ -324,7 +412,7 @@
         @keyframes fade {
    0% {
       opacity: 0;
-      transform: translateX(-100%);
+      transform: translateX(-50%);
       border-radius: 0%;
    }
    50% {
@@ -335,7 +423,7 @@
    }
    100% {
       opacity: 0;
-      transform: translateX(100%);
+      transform: translateX(50%);
       border-radius: 0%;
       
    }

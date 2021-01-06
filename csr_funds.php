@@ -18,11 +18,11 @@
         <div class="courses-container">
 			<div class="course">
 				<div class="course-preview">
-					<h6>Form heading </h6>
+					<h6>For ISM students </h6>
 				</div>
 				<div class="course-info">
 					<h6>About form</h6>
-    		        <h2>You can download the .doc files from <a href="files/Incubation_form-students.doc" download > here </a> and .pdf files from <a href="files/Incubation_form-students.pdf" download > here </a> </h2>
+    		        <h2>You can download the .doc files from <a href="files/Incubation_form-students.docx" download > here </a> and .pdf files from <a href="files/Incubation_form-students.pdf" download > here </a> </h2>
 
 					 <button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;'"  >Submit</button>
 
@@ -33,11 +33,11 @@
 		<div class="courses-container">
 			<div class="course">
 				<div class="course-preview">
-					<h6>Form heading </h6>
+					<h6>For NON-ISM </h6>
 				</div>
 				<div class="course-info">
 					<h6>About form</h6>
-           	 		<h2>You can download the .doc files from <a href="files/Incubation_form-outsiders.doc" download > here </a> and .pdf files from <a href="files/Incubation_form-outsiders.pdf" download > here </a> </h2>
+           	 		<h2>You can download the .doc files from <a href="files/Incubation_form-outsiders.docx" download > here </a> and .pdf files from <a href="files/Incubation_form-outsiders.pdf" download > here </a> </h2>
                 
 			 		<button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;"  >Submit</button>
 			
@@ -49,11 +49,11 @@
 		<div class="courses-container">
 			<div class="course">
 				<div class="course-preview">
-					<h6>Form heading </h6>
+					<h6>For Faculty </h6>
 				</div>
 				<div class="course-info">
 					<h6>About form</h6>
-            		<h2>You can download the .doc files from <a href="files/Faculty_entrepreneurship_form.doc" download > here </a> and .pdf files from <a href="files/Faculty_entrepreneurship_form.pdf" download > here </a> </h2>
+            		<h2>You can download the .doc files from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and .pdf files from <a href="files/Faculty_entrepreneurship_form.pdf" download > here </a> </h2>
              		<button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;"  >Submit</button>
 				</div>
 			</div>
