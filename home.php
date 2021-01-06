@@ -128,7 +128,9 @@
 
 
             </div>
-            <div class="container">
+
+            <div class="here" > 
+            <div class="container borders">
             <p>
             Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large. Goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making social and strategic impact.
             </p>
@@ -136,7 +138,7 @@
 
             <div class="obj">
                 <div class="obj_title">
-                    <p>OBJECTIVES</p>
+                    <h1>OBJECTIVES</h1>
                 </div>
                 <div class="obj_box"> 
                 <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
@@ -175,13 +177,13 @@
             </div>
               -->
 
-            <div class="container">
+            <div class="container borders">
                 <h1>Mission of CIIE:</h1>
 <p>To unleash entrepreneurial capacity and facilitate start-ups, with the hope that the new business entities will generate economic value and employment for the country as well as find practical business solutions to social and environmental challenges of current times.</p>
             </div>
             
             
-              <div class="container">
+              <div class="container borders">
               <h1> 	Scope of Activities of CIIE </h1>
                   <p> CIIE would be involved in following three broad set of activities:</p>
                <ul>
@@ -196,20 +198,27 @@
                </li>
                <ul>
               </div> 
-
-
                 <div class="container">
                   <h1>INCUBATING WITH CIIE: POLICY AND PROCEDURE  </h1> 
+               </div>
+                  <div class="container borders">
+                  
+
                   <p>CIIE seeks to support ventures from start-up phrase to scaling of operations by providing necessary support and help entrepreneurs. Ventures supported by CIIE may be set up for commercialization of a technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. 
 Ventures from any academic discipline will be welcome at CIIE, including but not restricted to Mining Engineering, Petroleum Engineering, Earth System Sciences, Geo-Physics, Information and Communication Technology (ICT), Biotechnology, Food Technology, Agriculture and allied sectors. 
 Likewise, ventures aiming at making social impact could be working towards any of the prominent issues faced by society, including but not restricted to modernizing agricultural practices, greater economic opportunities for women, greater employment opportunities for youth and overcoming social divides. 
  </p> 
+ </div>
+                  <div class="container borders">
 
                   <h2>Incubation Process at CIIE: </h2>
                   <p> To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
 The application would then be screened at CIIE by an evaluation committee and examined for   financial and technical feasibility. If cleared in first round of screening, applicants may be invited to present their ideas before a select panel. 
 If selected for incubation, incubatees would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of agreement, incubatees would be allotted facilities at CIIE subject to availability and need of incubate, after which incubatees can start the process of incubation.  
  </p> 
+ </div>
+                  <div class="container borders">
+
                   <h2> Support offered by CIIE:  </h2>
                   <p> CIIE will actively support its incubatees through a combination of inputs, which could include: 
                   
@@ -223,7 +232,8 @@ If selected for incubation, incubatees would sign an incubation agreement contai
                   <li> <p> g)	Networking support:  Meetings with visitors of IIT (ISM), Dhanbad (such as academics, alumni, venture capitalists, industry professionals etc.), showcasing work in networking events </p> </li> 
                   </ul></p>
 
-
+</div>
+                  <div class="container borders">
                   <h2> Intended Beneficiarie </h2>
                   <p>
                   CIIE will extend support to a broad base of innovators and aspiring start-ups. Incubatees may include but not be restricted to:
@@ -241,7 +251,8 @@ If selected for incubation, incubatees would sign an incubation agreement contai
                    <P>
                   CIIE may allow non-registered entities under its ‘pre-incubation’ scheme. Pre-incubation scheme is intended to help students and budding entrepreneurs to test their ideas before committing to a registered business entity. Support provided to pre-incubatees may differ from support provided to regular incubatees and would be decided on a case-to-case basis. 
                    </P>
-
+                   </div>
+                  <div class="container borders">
             
                   <h2>Rules governing Intellectual Property, Licensing and Technology Commercialization: </h2>
                   <p>
@@ -358,6 +369,9 @@ Co-creators of IP shall sign at the time of disclosure, a distribution of IP Ear
                   </ul>
                         
                     </p>
+                    </div>
+                  <div class="container borders">
+                  
             <h2>Consideration:</h2>
             <ul>
                 <li>
@@ -371,6 +385,9 @@ Co-creators of IP shall sign at the time of disclosure, a distribution of IP Ear
             <table></table>
                    The dilutable equity shall be maintained in proportion to promoters’ equity. If promoters increase their shareholding then they shall give additional shares to IIT (ISM) Dhanbad to maintain the pre-determined level of equity. This clause shall not apply in case of third-party investment in the company
                    </li>
+                   </div>
+                  <div class="container borders">
+
             <h2>
             Terms of Financial Support</h2>
             <ul>
@@ -391,11 +408,17 @@ Co-creators of IP shall sign at the time of disclosure, a distribution of IP Ear
                 <p>The company would have option to choose any one of the options are stated above and communicate to CIIE in writing. Once the option is chosen and communicated by the company, in no case it can be changed. In case of default payment, the entire loan amount will be converted into equity of 25% at par.
 In addition to the nominee director from IIT (ISM) against the incubation equity, there shall be one more nominee director from IIT (ISM) for the equity against seed fund disbursed.</p>
             </ul>
+            </div>
+                  <div class="container borders">
+
             <h2>Duration of Incubation:</h2>
             <ul>
                 <li>a) Incubatee company shall be offered an incubation period of two years. However, based on the performance of the company and a written request the term can be extended by six months</li>
                 <li>b) Beneficiaries under pre-incubation scheme may avail the facilities allowed to them for a period of one year. However, based on progress made by the individual/group of individuals in moving the idea towards commercialization and a written request the term can be extended by six months</li>
             </ul>
+            </div>
+                  <div class="container borders">
+
             <h2>Entrepreneurship by members of IIT (ISM) Dhanbad</h2>
             <p>IIT (ISM) Dhanbad strongly encourages its students, staff and faculty to engage in innovation and incubation activities, especially those directly towards translating research outcomes into commercial products. Following policy governs incubation and entrepreneurship activities of the members of the institute:</p>
             <ul>
@@ -467,7 +490,7 @@ place due to additional investment in the Start-up, or payment / share allotment
 </ul>
             
             </div>
-
+        </div>
 
 
 
@@ -546,9 +569,6 @@ place due to additional investment in the Start-up, or payment / share allotment
 
 
             </div>
-            <div class="container">
-
-            </div>  
         </main>
                 
 
