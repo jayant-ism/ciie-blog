@@ -289,13 +289,21 @@ body {
 .texts h2{
   font-size: 5em;
 }
+@media only screen and (max-width: 600px){
+  .achieve_trophy {
+    height: 350px;
+   
+  }
+}
 @media only screen and (max-width: 395px){
   .achieve_trophy {
     width: 340px;
+   
   }
   .achieve_head{
     width: 340px;
   }
+  
 
 }
 

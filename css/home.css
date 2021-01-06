@@ -19,6 +19,12 @@ header {
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
   
   }
+  @media only screen and (max-width: 600px){
+    .achieve_trophy {
+      height: 350px;
+     
+    }
+  }
   
   .texts{
     
