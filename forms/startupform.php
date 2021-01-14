@@ -53,6 +53,7 @@ $writer->save("../Start_up list(with contact details).xlsx");
 
 </head>
 <body>
+<div class="container"> 
 <form class="form" style="margin-left:100px ; margin-top:100px ; " action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post">
       <h1 >Add the startup name </h1>
       
@@ -65,7 +66,7 @@ $writer->save("../Start_up list(with contact details).xlsx");
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
+</div>
 
 </body>
 
