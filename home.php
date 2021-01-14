@@ -354,7 +354,38 @@ Alternatively, enterprise(s) promoted by IIT (ISM) Dhanbad members may enter int
                            <li>Even when licensed to third party for commercialisation, IIT (ISM) Dhanbad shall retain a non-exclusive, free and irrevocable license to use the IP for teaching and research activities, consistent with confidentiality agreements wherever entered into by IIT (ISM) Dhanbad and the creator(s) or inventor(s)</li>
                            <li>
                            The net earnings from the commercialization of IP owned by IIT (ISM), DHANBAD would be shared with the inventors in following ratios:<br>
-                               <table></table>
+                               <table>
+                               
+                                     <tr>
+            <th>Case</th>
+            <th>Revenue (Amount)</th>
+            <th>Institute’s Share</th>
+            <th>Inventor’s Share</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Rs. 1 crore or less</td>
+                <td>35%</td>
+                <td>65%</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Rs. 1 crore-5 crore</td>
+                <td>50%</td>
+                <td>50%</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Rs. 5 crore or above</td>
+                <td>65%</td>
+                <td>35%</td>
+            </tr>
+                                   
+                                   
+                                   
+                                   
+                                   
+                               </table>
                            </li>
                    
                    </ul>
@@ -375,14 +406,88 @@ Co-creators of IP shall sign at the time of disclosure, a distribution of IP Ear
             <h2>Consideration:</h2>
             <ul>
                 <li>
-            <p>In cases of IP solely held by external startups, the organisations would have complete rights to collaborate with other companies and sell or share or the IP rights
+            <p>a) CIIE may charge incubatees for use of office space, services, facilities, laboratory, equipment, seed money, IIT (ISM) Dhanbad’s intellectual property etc. Indicative rate of payment for use of facilities and infrastructure are as follows:
             <table>
+                 <tr>
+                <th>S. No.</th>
+                <th>Facility</th>
+                <th>Charges</th>
+                
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>Office space (rental)</td>
+                <td>INR 8 per sq. ft. (for first two years)</td>
+                
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Internet access</td>
+                <td>As decided by IIT (ISM) Dhanbad</td>
+                
+                
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Electricity</td>
+                <td>On cost basis</td>
+                
+                
+            </tr>
+            <tr>
+                <td>4.</td>
+                <td>Laboratory and equipment</td>
+                <td>As decided by IIT (ISM) Dhanbad</td>
+                
+                
+            </tr>
+            <tr>
+                <td>5.</td>
+                <td>Knowhow owned by IIT (ISM) Dhanbad</td>
+                <td>As decided by IIT (ISM) Dhanbad</td>
+                
+                
+            </tr>
+            <tr>
+                <td>6.</td>
+                <td>Common facilities (rental)</td>
+                <td>Nil</td>
+                
+            </tr>
+            <tr>
+                <td>7.</td>
+                <td>Common services</td>
+                <td>Nil</td>
+                
+            </tr>
+                
             </table>
             Charges may change from time to time</p><li>
             <li>b) Charges for various facilities shall be payable strictly within seven days from date of communication. In case of default in payment, company may be charged 12% interest compounded quarterly or asked to issue dilutable equity</li>
-            <!-- here --> <li>IIT(ISM) Dhanbad shall have lien on the assets of the resident company at the incubation center till such time that the resident company clears all the outstanding dues</li>
-               <li>In lieu of support by CIIE, incubatee is required to provide a dilutable equity to IIT (ISM) Dhanbad. At the time of disposal, the decision of CIIE / IIT(ISM) regarding buyback of full or part of the equity issued shall be conveyed to the company and the company shall abide by the decision. Dilutable equity to be provided by the enterprises:
-            <table></table>
+            <!-- here --> <li>c)IIT(ISM) Dhanbad shall have lien on the assets of the resident company at the incubation center till such time that the resident company clears all the outstanding dues</li>
+               <li>d)In lieu of support by CIIE, incubatee is required to provide a dilutable equity to IIT (ISM) Dhanbad. At the time of disposal, the decision of CIIE / IIT(ISM) regarding buyback of full or part of the equity issued shall be conveyed to the company and the company shall abide by the decision. Dilutable equity to be provided by the enterprises:
+            <table>
+                   
+                   <tr>
+                <th>S. No.</th>
+                <th>Incubation Type</th>
+                <th>Percentage of equity</th>
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>Enterprise incubated at IIT (ISM) Dhanbad</td>
+                <td>3% of promoters’ dilutable equity</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Pre-incubation at IIT (ISM) Dhanbad</td>
+                <td>10% of promoters’ dilutable equity</td>
+            </tr>
+                   
+                   
+                   
+                   
+                   </table>
                    The dilutable equity shall be maintained in proportion to promoters’ equity. If promoters increase their shareholding then they shall give additional shares to IIT (ISM) Dhanbad to maintain the pre-determined level of equity. This clause shall not apply in case of third-party investment in the company
                    </li>
                    </div>
