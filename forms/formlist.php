@@ -53,6 +53,11 @@
     <br>
     <br>
     <a href="deletedata.php">Delete Data</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <a href="../contact.xlsx" download> download data </a> 
     </div>
 </body>
 </html>

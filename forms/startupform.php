@@ -68,6 +68,19 @@ $writer->save("../Start_up list(with contact details).xlsx");
 </form>
 </div>
 
+
+<div class="container" >
+  <h1> Upload the file </h1>
+
+  <form action="upload.php" method="post" enctype="multipart/form-data">
+  Select .xlsx to upload:
+  <input type="file" name="fileToUpload" id="fileToUpload">
+  <input type="submit" value="Upload Image" name="submit">
+</form>
+
+
+</div> 
+
 </body>
 
   </html>
