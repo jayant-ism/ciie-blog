@@ -41,7 +41,12 @@
 
                         <ul>
 
+                        <!-- place loop for highlights 
+
                         
+                        <li> <a href="" > place Detail </li>  
+
+                        -->
                                         
                         <li> <a href="" > Detail </li>    
                     
@@ -169,87 +174,64 @@
                       <div class="mySlides1 ">
                     
                     <div class="card fade1"> 
-                      <img src="images/commit/Saumya_Singh.jpg" alt="Ciee" class="images">
+                      <img src="images/Coreteam/image1.jpg" alt="Ciee" class="images">
                     
                       <div class="container">
-                          <div class="text"><p>Saumya Singh <br> Head, CIIE <br>Associate Dean, Incubation and Entrepreneurship</p></div>
+                          <div class="text"><p>image1</p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1"> 
+                      <img src="images/Coreteam/image2.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>image2</p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1"> 
+                      <img src="images/Coreteam/image3.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>image3</p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1"> 
+                      <img src="images/Coreteam/image4.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>image4</p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1"> 
+                      <img src="images/Coreteam/image5.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>image5</p></div>
                       
                     </div>
                   </div>
                   </div>
                   
 
-
-                      <div class="mySlides1 ">
-                    
-                    <div class="card fade1">
-                      <img src="images/commit/Aparna.jpg" alt="Ciee" class="images">
-                    
-                      <div class="container">
-                          <div class="text"><p>Aparna Krishna<br> Faculty Coordinator, Website Development and Content and Graphic Designing</p></div>
-                      
-                    </div>
-                  </div>
-                  </div>
-                  
-
-
-                  <div class="mySlides1 ">
-                    
-                    <div class="card fade1">
-                       <img src="images/commit/N_Das.jpg" alt="Ciee" class="images">
-                      
-                      <div class="container">
-                          <div class="text"><p>Niladri Das <br>Faculty Coordinator, Alumni and Industry Networking</p></div>
-                      
-                    </div>
-                  </div>
-                  </div>
-                  
-
-
-                  
-
-                  <div class="mySlides1 ">
-                    
-                    <div class="card fade1">
-                          <img src="images/commit/Shashank_Bansal.jpg" alt="Ciee" class="images" >
-                        
-                          <div class="container">
-                          <div class="text"><p>Shashank Bansal <br> Faculty Coordinator, Event Coordination </p></div>
-                        </div>
-                    </div>
-                    
-                  </div>
-                  
-
-
-                  <div class="mySlides1 ">
-                    
-                    <div class="card fade1">
-                      <img src="images/commit/Shikha_Singh.jpg" alt="Ciee" class="images">
-                    
-                      <div class="container">
-                          <div class="text"><p>Shikha Singh <br> Faculty Coordinator, Branding and Promotions </p></div>
-                      </div>
-                    </div>
-                    
-                  </div>
-                  
-
-
-                  <div class="mySlides1 ">
-                    
-                    <div class="card fade1">
-                      <img src="images/commit/Shashank_Bansal.jpg" alt="Ciee" class="images">
-                    
-                      <div class="container">
-                          <div class="text"><p>Shikha Singh <br> Faculty Coordinator, Branding and Promotions </p></div>
-                      </div>
-                    </div>
-                    
-                  </div>
-                  
 
                   <!--  here -->
                   </div>

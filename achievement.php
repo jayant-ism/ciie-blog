@@ -34,6 +34,33 @@
             
             <div class="row containerr" style="margin-top: 50px;">
 
+              <!--  place loop here 
+
+
+
+              <div class="col-lg-4 col-md-12 col-sm-12" style="margin-bottom: 10px;">
+                <div class="card" >
+                  <div class="face face1">
+                     <div class="content">
+                          <img src="   place image link   ">
+                        </div>
+                  </div>
+                  <div class="face face2" style="background-color: #333; color: #fff;  border-radius: 2%;">
+                      <div class="content" style="text-align: center;">
+                          <p>  place image details  </p>
+                          <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
+                          <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
+                      </div>
+                  </div>
+              </div>
+            
+              </div>
+
+
+
+
+
+            -->
               <div class="col-lg-4 col-md-12 col-sm-12" style="margin-bottom: 10px;">
                 <div class="card" >
                   <div class="face face1">
@@ -69,6 +96,8 @@
               </div>
             
               </div>
+
+
               <div class="col-lg-4 col-md-12 col-sm-12" style="margin-bottom: 10px;">
                 <div class="card" >
                   <div class="face face1">

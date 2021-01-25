@@ -53,6 +53,7 @@ $writer->save("../Start_up list(with contact details).xlsx");
 
 </head>
 <body>
+<div class="container"> 
 <form class="form" style="margin-left:100px ; margin-top:100px ; " action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post">
       <h1 >Add the startup name </h1>
       
@@ -65,7 +66,20 @@ $writer->save("../Start_up list(with contact details).xlsx");
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+</div>
 
+
+<div class="container" >
+  <h1> Upload the file </h1>
+
+  <form action="upload.php" method="post" enctype="multipart/form-data">
+  Select .xlsx to upload:
+  <input type="file" name="fileToUpload" id="fileToUpload">
+  <input type="submit" value="Upload Image" name="submit">
+</form>
+
+
+</div> 
 
 </body>
 

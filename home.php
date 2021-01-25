@@ -584,6 +584,9 @@ place due to additional investment in the Start-up, or payment / share allotment
         
         </p></li>
     </ul>
+    </div>
+    <div class="container borders">
+
     <h2> Other Terms and Conditions:</h2>
 <ul>
     <li>a) Seed loan, if sanctioned, shall be sanctioned only to the incubated companies. The sanction shall be subject to performance of and milestones achieved by the incubate company. A company desirous of obtaining a seed loan may submit an application for seed fund after three months of incubation. The application of the seed loan should clearly indicate the requirement, activities, expenditure heads and timelines</li>
