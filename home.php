@@ -23,9 +23,9 @@
             
             <div class="achieve_trophy ">
               <div class="texts">
-                <h2>CIIE</h2>
+                <h1> About CIIE</h1>
                 <hr style="border-top: 1px solid rgb(107, 103, 103); ">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                <p> Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines)Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large.Goal of CIIE is to promote start-ups and entrepreneurship as a viable career optionand as means to making social and strategic impact.</p>
               </div>
             </div>
 
@@ -33,7 +33,7 @@
 
             <!-- <div class="aboutus">
                 <div class="aboutus_title"> 
-                    <p>ABOUT US</p>
+                    <h1>Mission of CIIE</h1>
                 </div>
                 <div class="aboutus_info">
                     <div class="aboutus_info1">
@@ -131,14 +131,15 @@
 
             <div class="here" > 
             <div class="container borders">
+                <h1>About CIIE: </h1>
             <p>
             Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large. Goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making social and strategic impact.
             </p>
             </div>
 
-            <div class="obj">
+        <!--     <div class="obj">
                 <div class="obj_title">
-                    <h1>OBJECTIVES</h1>
+                    <h1>	Scope of Activities of CIIE: </h1>
                 </div>
                 <div class="obj_box"> 
                 <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
@@ -151,7 +152,7 @@
                     <p>Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
                 </div>
                 </div>
-            </div>
+            </div>-->
 <!--
             <div class="row-lg-12" style="background-color: #e8e8db;">
                 <h1 style=" color: #116466; text-align: center; margin-bottom: -1px"> Members </h1>
