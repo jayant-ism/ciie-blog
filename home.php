@@ -300,7 +300,7 @@ Alternatively, enterprise(s) promoted by IIT (ISM) Dhanbad members may enter int
                            <li>For such startups/enterprises IIT (ISM) Dhanbad may waive off the requirement of up-front payment of royalty, based on request by the organisation</li>
                            <li>In cases where royalty or license fee are not waived off, organisation may request for deferring the payment. In that case, institute may enter into agreement for sharing of revenue generated due to commercialisation of technology.<br>
                                        Revenue sharing mechanism may be as follows:<br><br>
-                            <table>
+                            <table border=1>
             <tr>
                 <th>
                     Case
@@ -356,7 +356,7 @@ Alternatively, enterprise(s) promoted by IIT (ISM) Dhanbad members may enter int
                            <li>Even when licensed to third party for commercialisation, IIT (ISM) Dhanbad shall retain a non-exclusive, free and irrevocable license to use the IP for teaching and research activities, consistent with confidentiality agreements wherever entered into by IIT (ISM) Dhanbad and the creator(s) or inventor(s)</li>
                            <li>
                            The net earnings from the commercialization of IP owned by IIT (ISM), DHANBAD would be shared with the inventors in following ratios:<br>
-                               <table>
+                               <table border=1>
                                
                                      <tr>
             <th>Case</th>
@@ -409,7 +409,7 @@ Co-creators of IP shall sign at the time of disclosure, a distribution of IP Ear
             <ul>
                 <li>
             <p>a) CIIE may charge incubatees for use of office space, services, facilities, laboratory, equipment, seed money, IIT (ISM) Dhanbad’s intellectual property etc. Indicative rate of payment for use of facilities and infrastructure are as follows:
-            <table>
+            <table border=1>
                  <tr>
                 <th>S. No.</th>
                 <th>Facility</th>
@@ -468,7 +468,7 @@ Co-creators of IP shall sign at the time of disclosure, a distribution of IP Ear
             <li>b) Charges for various facilities shall be payable strictly within seven days from date of communication. In case of default in payment, company may be charged 12% interest compounded quarterly or asked to issue dilutable equity</li>
             <!-- here --> <li>c)IIT(ISM) Dhanbad shall have lien on the assets of the resident company at the incubation center till such time that the resident company clears all the outstanding dues</li>
                <li>d)In lieu of support by CIIE, incubatee is required to provide a dilutable equity to IIT (ISM) Dhanbad. At the time of disposal, the decision of CIIE / IIT(ISM) regarding buyback of full or part of the equity issued shall be conveyed to the company and the company shall abide by the decision. Dilutable equity to be provided by the enterprises:
-            <table>
+            <table border=1>
                    
                    <tr>
                 <th>S. No.</th>
@@ -528,8 +528,8 @@ In addition to the nominee director from IIT (ISM) against the incubation equity
 
             <h2>Entrepreneurship by members of IIT (ISM) Dhanbad</h2>
             <p>IIT (ISM) Dhanbad strongly encourages its students, staff and faculty to engage in innovation and incubation activities, especially those directly towards translating research outcomes into commercial products. Following policy governs incubation and entrepreneurship activities of the members of the institute:</p>
-            <ul>
-                <li><h3>Incubation of organisations/enterprises founded by members of IIT (ISM) Dhanbad</h3>
+           
+                <h3>Incubation of organisations/enterprises founded by members of IIT (ISM) Dhanbad</h3>
                     <p>
                     A company founded by faculty, staff or students (including research scholars) of IIT (ISM) Dhanbad will necessarily be required for incubation in CIIE. However, in the exceptional cases, where a member of the institute wants to open the company outside institute, a sufficient justification has to be provided, which will be evaluated by a committee comprising of Dean (R&D), Dean (IRAA), HoC, CIIE and two faculty members. The recommendation of the committee will be final and binding.
                     <br>For the incubation of an enterprise founded by member(s) of the institute, evaluation will be as per the incubators policy of the institute. Upon approval, the institute shall exercise its discretion on:
@@ -538,8 +538,8 @@ In addition to the nominee director from IIT (ISM) against the incubation equity
                     <li>A liability free equity of 10 % in the company for a period of ten years. Against this equity, the institute shall permit the use of IP developed within IIT (ISM) by the founding faculty members and students</li>
                     <li>Equity against incubation will be as per Incubators Policy of the institute, if the enterprise company is incubated at CIIE</li>
                     <li>In case the institute provides loan to the company, Institute‘s rules will apply for its repayment/additional equity holding</li>
-                    </ul></li>
-                <li><h3>Modes of Faculty/Staff’s Engagement with Startups:</h3><br>
+                    </ul>
+                <h3>Modes of Faculty/Staff’s Engagement with Startups:</h3><br>
                     <p>
                     Faculty and staff may engage with startups/enterprises in following modes:<br>
 a) Capital Investment: Faculty / Staff may be involved in the Start-up by providing capital investment alone in return for shares, with no other managerial, technical or mentorship involvement whatsoever. All shares thus allotted can be retained by the concerned Faculty / Staff, and the transaction is treated as a purely private commercial transaction of no concern to the institute. The member must declare this to the institute and the organization so as to avoid conflict of interest situations</p>
@@ -550,8 +550,8 @@ a) Capital Investment: Faculty / Staff may be involved in the Start-up by provid
 In case of part-time involvement with a startup/enterprise, it is expected that the faculty/staff will balance the work his or her academic or administrative responsibilities as assigned by IIT (ISM) Dhanbad</li>
                     </ul>
                     </p>      
-                </li>
-        <li><h3>Modes of Students/research scholar’s Engagement with Startups:</h3>
+               
+        <h3>Modes of Students/research scholar’s Engagement with Startups:</h3>
         <p>
         Students, including research scholars with live registration at IIT (ISM) Dhanbad may engage with startups/enterprises in following modes:
             <ul>
@@ -561,8 +561,8 @@ In case of part-time involvement with a startup/enterprise, it is expected that 
 
 compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad</li><br><br>
         When a member of IIT (ISM) Dhanbad utilizes leave of absence (Sabbatical or any applicable equivalent) for direct, active participation in a startup or enterprise, it is obligatory that the concerned Head(s) of Department be informed at least three months in advance. Shorter notice needs to be specifically approved by the Head of Department. This is to ensure that the academic programmes of the institute are not affected.</p>
-            
-    <li><h3>Conflict of Interest</h3>
+    </ul>   
+    <h3>Conflict of Interest</h3>
         <p>
             It is essential that members of IIT (ISM) Dhanbad avoid any conflict of interest between their roles in the institute and in the enterprise/startup. Conflict of interest may arise on account of following:
         <ul>
@@ -578,14 +578,12 @@ compensated by startups or enterprises with cash/and or shares, he or she must a
            For each member of IIT (ISM) who applies for approval for engaging with a Start-up, CIIE may do following to avoid conflict of interest:
             <li>Determine potential areas/activities where there is conflict of interest and arrive at an agreed upon methodology for ensuring transparency in decision making in respect of these activities/areas</li>
             <li>Set up an - oversight committee of Faculty / Staff for specific relationships to ensure that conflicts of interest do not arise</li>
-            <li>Require the member to declare their financial interests, and those of their close relatives, in the Start-up, at the time of engagement, as well as whenever a change in such interests takes
-13
-place due to additional investment in the Start-up, or payment / share allotment by the Startup</li><br>
+            <li>Require the member to declare their financial interests, and those of their close relatives, in the Start-up, at the time of engagement, as well as whenever a change in such interests takes 
+                   place due to additional investment in the Start-up, or payment / share allotment by the Startup</li><br>
             In case a member of the CIIE Governing Council has shares in a startup/enterprise, the Governing Council will determine whether the said member should resign from the Council, in order to avoid potential conflict of interest, or only recuse himself /herself when matters pertaining to the Start-up with which he / she is involved are discussed.
     </ul>
         
-        </p></li>
-    </ul>
+        </p>
     </div>
     <div class="container borders">
 
