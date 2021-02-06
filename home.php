@@ -212,7 +212,8 @@ Likewise, ventures aiming at making social impact could be working towards any o
  </div>
                   <div class="container borders">
 
-                  <h2>Incubation Process at CIIE: </h2>
+                   <h2>Incubation Process at CIIE: </h2>
+                   <img src="images/incubation.jpg"alt="incubation" style="height:50% ; width:50%; margin-left:1%">
                   <p> To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
 The application would then be screened at CIIE by an evaluation committee and examined for   financial and technical feasibility. If cleared in first round of screening, applicants may be invited to present their ideas before a select panel. 
 If selected for incubation, incubatees would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of agreement, incubatees would be allotted facilities at CIIE subject to availability and need of incubate, after which incubatees can start the process of incubation.  
