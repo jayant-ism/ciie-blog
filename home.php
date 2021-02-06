@@ -556,7 +556,7 @@ In case of part-time involvement with a startup/enterprise, it is expected that 
         Students, including research scholars with live registration at IIT (ISM) Dhanbad may engage with startups/enterprises in following modes:
 <br><br>
     a) Full time involvement: A research scholar/student can seek special leave for a semester, or an additional period to work for a Start-up on a fulltime basis. Upon returning, the student must satisfy all norms (including the maximum duration of his/her respective programme of the study) in order to earn a degree. If the research scholar/students is compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad
-     <br>       
+     <br>   <br>    
     b) Part-time involvement: A research scholar/students can seek permission to work for a start-up on part time basis. In such cases, IIT (ISM) Dhanbad’s part-time engagement norms in projects during a semester/vacation period will apply. If the research scholar/students is
 
 compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad</li><br><br>
