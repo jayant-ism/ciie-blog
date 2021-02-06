@@ -554,10 +554,10 @@ In case of part-time involvement with a startup/enterprise, it is expected that 
         <h3>Modes of Students/research scholar’s Engagement with Startups:</h3>
         <p>
         Students, including research scholars with live registration at IIT (ISM) Dhanbad may engage with startups/enterprises in following modes:
-            <ul>
-                <li>a) Full time involvement: A research scholar/student can seek special leave for a semester, or an additional period to work for a Start-up on a fulltime basis. Upon returning, the student must satisfy all norms (including the maximum duration of his/her respective programme of the study) in order to earn a degree. If the research scholar/students is compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad</li></ul>
-            </li>
-    <li>b) Part-time involvement: A research scholar/students can seek permission to work for a start-up on part time basis. In such cases, IIT (ISM) Dhanbad’s part-time engagement norms in projects during a semester/vacation period will apply. If the research scholar/students is
+           
+    a) Full time involvement: A research scholar/student can seek special leave for a semester, or an additional period to work for a Start-up on a fulltime basis. Upon returning, the student must satisfy all norms (including the maximum duration of his/her respective programme of the study) in order to earn a degree. If the research scholar/students is compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad
+     <br>       
+    b) Part-time involvement: A research scholar/students can seek permission to work for a start-up on part time basis. In such cases, IIT (ISM) Dhanbad’s part-time engagement norms in projects during a semester/vacation period will apply. If the research scholar/students is
 
 compensated by startups or enterprises with cash/and or shares, he or she must assign upto 5% of the total cash/shares allotted to him or her to IIT (ISM) Dhanbad</li><br><br>
         When a member of IIT (ISM) Dhanbad utilizes leave of absence (Sabbatical or any applicable equivalent) for direct, active participation in a startup or enterprise, it is obligatory that the concerned Head(s) of Department be informed at least three months in advance. Shorter notice needs to be specifically approved by the Head of Department. This is to ensure that the academic programmes of the institute are not affected.</p>
