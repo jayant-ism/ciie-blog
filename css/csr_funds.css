@@ -13,13 +13,13 @@ header p{
 }
 
 .insti_name p{
-    font-size: 2rem;
+    font-size: 1rem;
     font-weight: 700;
     margin-top: 25px;
 }
 
 .company_name p{
-    font-size: 1.3rem;
+    font-size: 1rem;
     margin-top: 30px;
 }
 
@@ -80,7 +80,7 @@ a {
 
 .head_info p{
     font-family: 'Calibri';
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     color: #d9b08c;
     margin: 10px 0px 0px 30px;
     /* line-height: 1.3rem;  */
@@ -89,7 +89,7 @@ a {
 
 .footer_head p{
     font-family: 'Agency FB';
-    font-size: 1.8rem;
+    font-size: 1rem;
     color: #f5f5f5;
     padding-top: 25px;
     text-align: center;
@@ -279,7 +279,7 @@ a {
 
 .button p{
     font-family: 'Calibri';
-    font-size: 1.5rem;
+    font-size: 1rem;
     background-color: #116466;
     padding: 10px;
     color: #f5f5f5;
@@ -343,7 +343,7 @@ a {
 .course-preview a {
 	color: #fff;
 	display: inline-block;
-	font-size: 12px;
+	font-size: 4px;
 	opacity: 0.6;
 	margin-top: 30px;
 	text-decoration: none;
@@ -360,7 +360,7 @@ a {
 	border-radius: 50px;
 	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 	color: #116466;
-	font-size: 16px;
+	font-size: 12px;
 	padding: 12px 25px;
 	bottom: 30px;
 	right: 30px;
