@@ -36,6 +36,9 @@ header {
   .texts h2{
     font-size: 5em;
   }
+
+
+  
   @media only screen and (max-width: 395px){
     .achieve_trophy {
       width: 340px;
@@ -370,35 +373,6 @@ a {
 
 
 
-.faq_head{
-    min-height: 40px;
-    background-color: #116466;
-    color: #f5f5f5;
-    font-family: 'Agency FB';
-    font-size: 1.5rem;
-    text-align: left;
-    padding-left: 6%;
-    padding-top: 8px;
-}
-
-
-.faq_info{
-    min-height: 20px;
-    background-color: #d1e8e2;
-    color: #116466;
-    font-family: 'Calibri';
-    font-size: 1.1rem;
-    text-align: left;
-    padding-top: 25px;
-    padding-left: 6%;
-    padding-right: 6%;
-    padding-bottom: 10px;
-}
-
-
-.faq_info p{
-    padding-bottom: 20px;
-}
 
 
 
@@ -412,18 +386,6 @@ a {
     padding-bottom: 25px;
 }
 
-
-.collapse{
-    margin-right: 4%;
-}
-
-.collapse_btn{
-    background-color: #116466;
-    color: #f5f5f5; 
-    border: none; 
-    border-radius: 10%; 
-    padding: 5px;
-}
 
 @media (max-width:800px){
     .aboutus_info {

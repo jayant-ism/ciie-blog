@@ -8,15 +8,14 @@
         <span></span>
       </label>
     </div>
-    
-    <div class="nav-links" style="width: 100%;">
+    <div class="nav-links" style="width: 100%; max-height:350px ">
       <a href="home.php" target="_blank" style="margin-left: 5%;">Home</a>
-      <a href="aboutus.php" target="_blank" style="margin-left: 5%;" >About</a> 
-      <a href="" target="_blank" style="margin-left: 5%;" >Portfolio</a> 
-      <a href="incubation.php" target="_blank" style="margin-left: 5%;" >Incubation</a> 
-      <a href="" target="_blank" style="margin-left: 5%;" >News</a> 
+      <a href="aboutus.php" target="_blank" style="margin-left: 5%;" >About us</a> 
+      <a href="portfolio.php" target="_blank" style="margin-left: 5%;" >Portfolio</a> 
+      <a href="incubation.php" target="_blank" style="margin-left: 5%;" >Incubate with us</a> 
       <a href="achievement.php" target="_blank" style="margin-left: 5%;" >Achievements</a> 
-      <a href="contact.php" target="_blank" style="margin-left: 5%;" >Contacts</a>
-      <a href="csr_funds.php" target="_blank" style="margin-left: 5%;" >CSR & Funds</a>
-    </div>
+      <a href="contact.php" target="_blank" style="margin-left: 5%;" >Contact us</a>
+  
+      </div>
+      
 </div>

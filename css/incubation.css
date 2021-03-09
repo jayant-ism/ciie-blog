@@ -18,6 +18,17 @@ header p{
     margin-top: 25px;
 }
 
+.container {
+  padding: 30px;
+  
+ }
+ 
+ p{
+   font-size:1rem ; 
+ }
+ 
+ 
+
 .company_name p{
     font-size: 1.3rem;
     margin-top: 30px;
@@ -38,6 +49,15 @@ a {
     margin-left: 20%;
     
 }
+
+
+.borders {
+  border-radius: 2px; 
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);    
+  margin-top: 20px ; 
+  margin-bottom : 30px ; 
+}
+
 
 .insti_name {
     text-align: right;

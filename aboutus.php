@@ -167,7 +167,7 @@
                         
                        </div>
                 <div class="aboutus_col2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);"><div class="text_head">
-                        <p>Core Team</p>
+                        <p>Student Core Team</p>
                     </div><div class="slideshow-container" style="padding-top: 50px;">
                       <!-- here --> 
                   
@@ -231,6 +231,20 @@
                   </div>
                   </div>
                   
+                  
+                  <div class="mySlides1 ">
+                    
+                    <div class="card fade1"> 
+                      <img src="images/Coreteam/Jayant.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>Jayant </p></div>
+                      
+                    </div>
+                  </div>
+                  </div>
+                  
+
 
 
                   <!--  here -->
