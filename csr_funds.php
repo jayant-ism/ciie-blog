@@ -18,7 +18,7 @@
         <div class="courses-container">
 			<div class="course">
 				<div class="course-preview">
-					<h6>For ISM students </h6>
+					<h6>For others </h6>
 				</div>
 				<div class="course-info">
 					<h6>About form</h6>
@@ -33,7 +33,7 @@
 		<div class="courses-container">
 			<div class="course">
 				<div class="course-preview">
-					<h6>For NON-ISM </h6>
+					<h6>For others</h6>
 				</div>
 				<div class="course-info">
 					<h6>About form</h6>
@@ -49,7 +49,7 @@
 		<div class="courses-container">
 			<div class="course">
 				<div class="course-preview">
-					<h6>For Faculty </h6>
+					<h6>For IIT (ISM) Dhanbad Faculty </h6>
 				</div>
 				<div class="course-info">
 					<h6>About form</h6>
