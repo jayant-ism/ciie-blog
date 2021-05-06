@@ -7,6 +7,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $name = ($_POST["name"]);
   $title = ($_POST["title"]);
   $detail =  ($_POST["textfield"]);
+  $Designation = ($_POST["Designation"]);
+  $orgname =($_POST["orgname"]);
+  $organisation_type = ($_POST["organisation_type"]);
 }
 
 
@@ -26,7 +29,15 @@ $excel->getActiveSheet()->SetCellValue('A'.$i, $i);
 $excel->getActiveSheet()->SetCellValue('B'.$i, $email);
 $excel->getActiveSheet()->SetCellValue('C'.$i, $name);
 $excel->getActiveSheet()->SetCellValue('D'.$i, $title); 
-$excel->getActiveSheet()->SetCellValue('D'.$i, $detail); 
+$excel->getActiveSheet()->SetCellValue('E'.$i, $detail); 
+$excel->getActiveSheet()->SetCellValue('F'.$i, $Designation);
+$excel->getActiveSheet()->SetCellValue('G'.$i, $orgname);
+$excel->getActiveSheet()->SetCellValue('H'.$i, $organisation_type);
+
+
+
+
+
 // saving
 $writer = PHPExcel_IOFactory::createWriter($excel, "Excel2007");
 $writer->save("contact.xlsx");
@@ -81,47 +92,53 @@ $writer->save("contact.xlsx");
 
 
 
-    <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post"> 
-    <div class="form-group">
-<label for="email">Email address:</label>
-<input type="email" name="email" class="form-control" id="email">
-</div>
-<div class="form-group">
-<label for="name">Name</label>
-<input type="text" name="name" class="form-control" id="name">
-</div>
-<div class="form-group">
-<label for="title">Subject</label>
-<input type="text" name="title" class="form-control" id="title">
-</div>
-<div class="form-group">
-<label for="email">Details</label>
-<textarea row=20 name="textfield" id="textfield" class="form-control"> </textarea>
-</div>
+        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post"> 
+            
+            <div class="form-group">
+                <label for="orgname">Organisation Name:</label>
+                <input type="text" name="orgname" class="form-control" id="orgname">
+            </div>
+            
 
+            <div class="form-group">
+                <label for="Organisation_type"> Organisation type:</label>
+                
+                <select id="Organisation_type" name="organisation_type" id="organisation_type">
+                    <option value="Corporate" selected >Corporate  </option>
+                    <option value="Medium and Small Business">Medium and Small Business </option>
+                    <option value="Startup">Startup</option>
+                    <option value=" Educational Institutes "> Educational Institutes </option>
+                    <option value="Others">Others</option>
+                </select>
+            </div>
 
+            <div class="form-group">
+                <label for="email"> Contact email address:</label>
+                <input type="email" name="email" class="form-control" id="email">
+            </div>
 
-
-
-
-
-
-
-
-
-
-<button type="submit" class="btn btn-default">Submit</button>
-</form>
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" name="name" class="form-control" id="name">
+            </div>
+            <div class="form-group">
+                <label for="Designation">Designation</label>
+                <input type="text" name="Designation" class="form-control" id="Designation">
+            </div>
+            
+            <div class="form-group">
+                <label for="title">Subject</label>
+                <input type="text" name="title" class="form-control" id="title">
+            </div>
+            <div class="form-group">
+                <label for="email">Details</label>
+                <textarea row=20 name="textfield" id="textfield" class="form-control"> </textarea>
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form>
 
     </div>
-
-
-
-
 </main>
-
-
-
 </div>
 
 

@@ -11,8 +11,6 @@
                         Explore</p>
                     </div>
                     <div class="head_info" >
-                        <p>Lorem ipsum dolor sit</p>
-                        <p>Lorem ipsum dolor sit</p>
                         <div class="handles" style="color:white; text-align:center; margin-top:15px;">
                             <i class="fa fa-instagram" aria-hidden="true" style="margin-right:2%"></i>
                             <i class="fa fa-linkedin-square" aria-hidden="true" style="margin-right:2%"></i>
@@ -36,8 +34,5 @@
                     
                     
                 </div>
-            </div>
-            <div class="copyright">
-                <p>All Rights Reserved</p>
             </div>
         </footer>

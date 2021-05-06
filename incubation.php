@@ -33,33 +33,9 @@
             
 
             <div class="here" > 
-            <div class="container borders">
-                
-                
-                
-                <h1 id="about">About CIIE: </h1>
-            <p>
-            Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large. Goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making social and strategic impact.
-            </p>
-            </div>
-
+          
   
-            
-              <div class="container borders">
-              <h1> 	Scope of Activities of CIIE </h1>
-                  <p> CIIE would be involved in following three broad set of activities:</p>
-               <ul>
-               <li>
-               <p> a)	Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.   </p>
-               </li>
-               <li>
-               <p> b)	Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. </p>
-               </li>
-               <li>
-               <p> c)	Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
-               </li>
-               <ul>
-              </div> 
+             
                 <div class="container">
                   <h1>INCUBATING WITH CIIE: POLICY AND PROCEDURE  </h1> 
                </div>
@@ -100,7 +76,7 @@ You can download full policy document from <a href="files/Incubation_form-studen
                     <div class="courses-container">
 	            		<div class="course">
 	            			<div class="course-preview">
-	            				<h6>For ISM students </h6>
+	            				<h6>For IIT (ISM) Dhanbad students and alumni </h6>
 	            			</div>
 	            			<div class="course-info">
 	            				<h6>About form</h6>
@@ -115,7 +91,21 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            	<div class="courses-container">
 	            		<div class="course">
 	            			<div class="course-preview">
-	            				<h6>For NON-ISM </h6>
+	            				<h6>For IIT(ISM) Dhanbad Faculty </h6>
+	            			</div>
+	            			<div class="course-info">
+	            				<h6>About form</h6>
+                        		<h4>You can download the .doc files from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and .pdf files from <a href="files/Faculty_entrepreneurship_form.pdf" download > here </a> </h4>
+                         		<button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;"  >Submit</button>
+	            			</div>
+	            		</div>
+	            	</div>
+
+                
+	            	<div class="courses-container">
+	            		<div class="course">
+	            			<div class="course-preview">
+	            				<h6>For Others</h6>
 	            			</div>
 	            			<div class="course-info">
 	            				<h6>About form</h6>
@@ -128,18 +118,8 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            	</div>
 
 
-	            	<div class="courses-container">
-	            		<div class="course">
-	            			<div class="course-preview">
-	            				<h6>For Faculty </h6>
-	            			</div>
-	            			<div class="course-info">
-	            				<h6>About form</h6>
-                        		<h4>You can download the .doc files from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and .pdf files from <a href="files/Faculty_entrepreneurship_form.pdf" download > here </a> </h4>
-                         		<button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;"  >Submit</button>
-	            			</div>
-	            		</div>
-	            	</div>
+
+
 	            </div>
             </div>
 

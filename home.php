@@ -22,12 +22,18 @@
         <main>
             
             <div class="achieve_trophy ">
-              <div class="texts">
+            </div>
+            <div class="container">
+            <div >
                 <h1> About CIIE</h1>
                 <hr style="border-top: 1px solid rgb(107, 103, 103); ">
                 <p> Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines)Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large.Goal of CIIE is to promote start-ups and entrepreneurship as a viable career optionand as means to making social and strategic impact.</p>
               </div>
+            
             </div>
+
+            
+            
 
 
 
@@ -134,6 +140,78 @@
             </div>
 
 
+            <div class="container borders" style="padding-top: 10px">
+              <h1>
+              Partners and Sponsers
+              </h1>
+              <br/>
+
+
+              <ul class="brands">
+                <li class="brands__item">
+                    <div style="text-align: center ;  width: 130px">
+
+                      <img src="images/logos/logo.png" />
+                      Apple
+                    </div>  
+
+                </li>
+                
+                <li class="brands__item">
+                    <div style="text-align: center ;  width: 130px">
+
+                      <img src="images/logos/logo.png" />
+                      Apple
+                    </div>  
+
+                </li>
+                
+                <li class="brands__item">
+                    <div style="text-align: center ;  width: 130px">
+
+                      <img src="images/logos/logo.png" />
+                      Apple
+                    </div>  
+
+                </li>
+                
+                <li class="brands__item">
+                    <div style="text-align: center ;  width: 130px">
+
+                      <img src="images/logos/logo.png" />
+                      Apple
+                    </div>  
+
+                </li>
+                
+                <li class="brands__item">
+                    <div style="text-align: center ;  width: 130px">
+
+                      <img src="images/logos/logo.png" />
+                      Apple
+                    </div>  
+
+                </li>
+                
+                <li class="brands__item">
+                    <div style="text-align: center ;  width: 130px">
+
+                      <img src="images/logos/logo.png" />
+                      Apple
+                    </div>  
+
+                </li>
+                
+                <li class="brands__item">
+                    <div style="text-align: center ;  width: 130px">
+
+                      <img src="images/logos/logo.png" />
+                      Apple
+                    </div>  
+
+                </li>
+              </ul>
+            </div>
         </main>
                 
 
@@ -143,6 +221,35 @@
 
 
     <style>
+
+
+.brands {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 1rem;
+  list-style-type: none;
+
+}
+
+.brands__item img {
+
+  width: 130px;
+  height: 75px;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+
+
+
+
+
+.brands__item img {
+  display: block;
+  /* Make sure max-width is added */
+  max-width: 100%;
+}
+
+
             .card {
  
  transition: 0.6s;
