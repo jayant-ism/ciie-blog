@@ -27,15 +27,65 @@
             <div >
                 <h1> About CIIE</h1>
                 <hr style="border-top: 1px solid rgb(107, 103, 103); ">
-                <p> Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines)Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large.Goal of CIIE is to promote start-ups and entrepreneurship as a viable career optionand as means to making social and strategic impact.</p>
+                <p style=" text-align: justify; text-justify: inter-word;"> Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large.
+                 Goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making social and strategic impact.</p>
               </div>
             
             </div>
 
             
+
+          <div class="container">
+          <div class="w3-content w3-section" style="max-width:800px aligh:center">
+          <img class="mySlides" src="images/sampleimage.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
+          <img class="mySlides" src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
+          <img class="mySlides" src="images/members.jpeg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
+                       
+          </div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+          </div>
+
+
+
+
+
+
+        
+
+
+
+          <!-- 
+            -->
+
+
+
+
+
+    
+
+
+
+            
             
 
-
+<!--
 
 
             <div class="img_slider" style="margin-top: 100px;" >
@@ -120,6 +170,10 @@
 
             </div>
 
+
+
+
+-->
             <div class="here" > 
                 <div class="obj">
                     <div class="obj_title">
@@ -127,13 +181,15 @@
                     </div>
                     <div class="obj_box"> 
                         <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                            <p>Providing support to existing or new startups/enterprises: CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
+                           
+
+                            <p style=" text-align: justify; text-justify: inter-word;" > <Strong style="text-size:17px"> Providing support to existing or new startups/enterprises </strong> <br>  CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
                         </div>
                         <div class="obj_box2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                            <p>Fostering a culture of innovation and entrepreneurship: For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
+                            <p style=" text-align: justify; text-justify: inter-word;" > <Strong style="text-size:17px">  Fostering a culture of innovation and entrepreneurship </strong> <br> For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
                         </div>
                         <div class="obj_box3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                            <p>Building a conducive ecosystem for entrepreneurship: An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
+                            <p style=" text-align: justify; text-justify: inter-word;" > <Strong style="text-size:17px">  Building a conducive ecosystem for entrepreneurship </strong> <br> An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
                         </div>
                     </div>
                 </div>

@@ -94,7 +94,8 @@ $writer->save("mentor.xlsx");
 
 <main>
 
-<h1 style="font-size:30px ; margin-top:100px ;"> Contact us for Mentorship </h1>
+<h1 style="font-size:30px ; margin-top:100px ;">  Interested in Mentoring or Funding the Startups? <br>
+ Share your details and we will get in touch. </h1>
     <div class="conatiner" style="margin-top:50px ; margin-bottom: 100px ;" >
 
 
@@ -111,22 +112,31 @@ $writer->save("mentor.xlsx");
             </div>
             -->
 
+            
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" name="name" class="form-control" id="name">
+            </div>
+
 
             <div class="form-group">
                 <label for="orgname">Organisation Name:</label>
                 <input type="text" name="orgname" class="form-control" id="orgname">
             </div>
             
-
-
+            
             <div class="form-group">
-                <label for="organisation_size"> Organisation size:</label>
-                <select id="organisation_size" name="organisation_size">
-                    <option value="10-25" selected>10-25</option>
-                    <option value="25-100">25-100</option>
-                    <option value="100+">100+</option>
-                </select>
+                <label for="Designation">Designation</label>
+                <input type="text" name="Designation" class="form-control" id="Designation">
             </div>
+
+            
+            <div class="form-group">
+                <label for="email"> Email id:</label>
+                <input type="email" name="email" class="form-control" id="email">
+            </div>
+
+
             
             <!--
             <div class="form-group">
@@ -134,25 +144,19 @@ $writer->save("mentor.xlsx");
                 <input type="organisation_size" name="organisation_size" class="form-control" id="organisation_size">
             </div>
             -->
-            <div class="form-group">
-                <label for="email"> Contact email address:</label>
-                <input type="email" name="email" class="form-control" id="email">
-            </div>
-            <div class="form-group">
-                <label for="name">Name</label>
-                <input type="text" name="name" class="form-control" id="name">
-            </div>
-            <div class="form-group">
-                <label for="Designation">Designation</label>
-                <input type="text" name="Designation" class="form-control" id="Designation">
-            </div>
             
             <div class="form-group">
-                <label for="title">Subject</label>
-                <input type="text" name="title" class="form-control" id="title">
-            </div>
+                <label for="title">Interested in Mentoring/Funding</label>
+                <select id="title" name="title">
+                    <option value="" selected>Mentoring</option>
+                    <option value="25-100">Funding</option>
+                    <option value="both">Both</option>
+                </select>
+
+             </div>
+
             <div class="form-group">
-                <label for="email">Details</label>
+                <label for="email">Comments</label>
                 <textarea row=20 name="textfield" id="textfield" class="form-control"> </textarea>
             </div>
             <button type="submit" class="btn btn-default">Submit</button>

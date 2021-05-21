@@ -5,11 +5,7 @@ $startupname = $teamleader = $date = "";
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $email = ($_POST["email"]);
   $name = ($_POST["name"]);
-  $title = ($_POST["title"]);
   $detail =  ($_POST["textfield"]);
-  $Designation = ($_POST["Designation"]);
-  $orgname =($_POST["orgname"]);
-  $organisation_type = ($_POST["organisation_type"]);
 }
 
 
@@ -28,11 +24,7 @@ $i++;
 $excel->getActiveSheet()->SetCellValue('A'.$i, $i);
 $excel->getActiveSheet()->SetCellValue('B'.$i, $email);
 $excel->getActiveSheet()->SetCellValue('C'.$i, $name);
-$excel->getActiveSheet()->SetCellValue('D'.$i, $title); 
 $excel->getActiveSheet()->SetCellValue('E'.$i, $detail); 
-$excel->getActiveSheet()->SetCellValue('F'.$i, $Designation);
-$excel->getActiveSheet()->SetCellValue('G'.$i, $orgname);
-$excel->getActiveSheet()->SetCellValue('H'.$i, $organisation_type);
 
 
 
@@ -87,49 +79,27 @@ $writer->save("contact.xlsx");
 
 <main>
 
-<h1 style="font-size:30px ; margin-top:100px ;"> Contact us for funding </h1>
+<h1 style="font-size:30px ; margin-top:100px ;"> Wish to contact us? <br> Share your details and we will get in touch </h1>
     <div class="conatiner" style="margin-top:50px ; margin-bottom: 100px ;" >
 
 
 
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post"> 
             
-            <div class="form-group">
-                <label for="orgname">Organisation Name:</label>
-                <input type="text" name="orgname" class="form-control" id="orgname">
-            </div>
-            
 
-            <div class="form-group">
-                <label for="Organisation_type"> Organisation type:</label>
-                
-                <select id="Organisation_type" name="organisation_type" id="organisation_type">
-                    <option value="Corporate" selected >Corporate  </option>
-                    <option value="Medium and Small Business">Medium and Small Business </option>
-                    <option value="Startup">Startup</option>
-                    <option value=" Educational Institutes "> Educational Institutes </option>
-                    <option value="Others">Others</option>
-                </select>
-            </div>
 
-            <div class="form-group">
-                <label for="email"> Contact email address:</label>
-                <input type="email" name="email" class="form-control" id="email">
-            </div>
 
             <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" name="name" class="form-control" id="name">
             </div>
-            <div class="form-group">
-                <label for="Designation">Designation</label>
-                <input type="text" name="Designation" class="form-control" id="Designation">
-            </div>
+            
             
             <div class="form-group">
-                <label for="title">Subject</label>
-                <input type="text" name="title" class="form-control" id="title">
+                <label for="email"> Email id:</label>
+                <input type="email" name="email" class="form-control" id="email">
             </div>
+
             <div class="form-group">
                 <label for="email">Details</label>
                 <textarea row=20 name="textfield" id="textfield" class="form-control"> </textarea>

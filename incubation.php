@@ -76,13 +76,13 @@ You can download full policy document from <a href="files/Incubation_form-studen
                     <div class="courses-container">
 	            		<div class="course">
 	            			<div class="course-preview">
-	            				<h6>For IIT (ISM) Dhanbad students and alumni </h6>
+	            				<h6 style="width:180px">For IIT (ISM) Dhanbad students and alumni </h6>
 	            			</div>
 	            			<div class="course-info">
 	            				<h6>About form</h6>
-                		        <h4>You can download the .doc files from <a href="files/Incubation_form-students.docx" download > here </a> and .pdf files from <a href="files/Incubation_form-students.pdf" download > here </a> </h4>
-
-	            				 <button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;'"  >Submit</button>
+                		        <h4>You can download the offline form from <a href="files/Incubation_form-students.docx" download > here </a> and submit it <a href="files/Incubation_form-students.pdf" download > here </a> </h4>
+                             <h5 style="text-align:center">OR </h5> 
+                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform" download > here </a> .
 
 	            			</div>
 	            		</div>
@@ -91,12 +91,14 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            	<div class="courses-container">
 	            		<div class="course">
 	            			<div class="course-preview">
-	            				<h6>For IIT(ISM) Dhanbad Faculty </h6>
+	            				<h6 style="width:180px">For IIT(ISM) Dhanbad Faculty </h6>
 	            			</div>
 	            			<div class="course-info">
 	            				<h6>About form</h6>
-                        		<h4>You can download the .doc files from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and .pdf files from <a href="files/Faculty_entrepreneurship_form.pdf" download > here </a> </h4>
-                         		<button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;"  >Submit</button>
+                      <h4>You can download the offline form from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and submit it <a href="files/Incubation_form-students.pdf" download > here </a> </h4>
+                             <h5 style="text-align:center">OR </h5> 
+                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform" download > here </a> .
+
 	            			</div>
 	            		</div>
 	            	</div>
@@ -105,13 +107,16 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            	<div class="courses-container">
 	            		<div class="course">
 	            			<div class="course-preview">
-	            				<h6>For Others</h6>
+	            				<h6 style="width:180px">For Others</h6>
 	            			</div>
 	            			<div class="course-info">
 	            				<h6>About form</h6>
-                       	 		<h4>You can download the .doc files from <a href="files/Incubation_form-outsiders.docx" download > here </a> and .pdf files from <a href="files/Incubation_form-outsiders.pdf" download > here </a> </h4>
 
-	            		 		<button class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform;"  >Submit</button>
+                      <h4>You can download the offline form from <a href="files/Incubation_form-outsiders.docx" download > here </a> and submit it <a href="files/Incubation_form-students.pdf" download > here </a> </h4>
+                             <h5 style="text-align:center">OR </h5> 
+                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform" download > here </a> .
+
+
 
 	            			</div>
 	            		</div>
@@ -257,7 +262,7 @@ You can download full policy document from <a href="files/Incubation_form-studen
         }
         </style>
     
-    
+<!--    
     <div class="fixed-action-btn"  style="right: 50px; bottom: 50px;">
         <a class="btn-floating btn-large" style="border-radius: 100%; width: 60px; height: 60px; background-color: #116466; ">
           <img src="files/ICON.WEBP" width="50" height="50" > 
@@ -273,7 +278,7 @@ You can download full policy document from <a href="files/Incubation_form-studen
           <li><a class="btn-floating" href="#list"  style="border-radius: 0%; width: 100px; background-color: #116466;;">List of startups incubated</a></li>
         </ul>
       </div>
-
+-->
 
     
 <script> document.addEventListener('DOMContentLoaded', function() {
