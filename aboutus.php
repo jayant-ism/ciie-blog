@@ -62,7 +62,7 @@
 
             <div class="aboutus_row">
                 <div class="aboutus_col1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);"><div class="text_head">
-                        <p>Committee</p>
+                        <p>Faculty Committee</p>
                     </div>
                     <div class="slideshow-container" style="padding-top: 50px;">
                             <!-- here --> 

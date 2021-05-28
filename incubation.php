@@ -42,7 +42,7 @@
                   <div class="container borders">
                   
 
-                  <p>CIIE seeks to support ventures from start-up phrase to scaling of operations by providing necessary support and help entrepreneurs. Ventures supported by CIIE may be set up for commercialization of a technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. 
+                  <p style=" text-align: justify; text-justify: inter-word;">CIIE seeks to support ventures from start-up phrase to scaling of operations by providing necessary support and help entrepreneurs. Ventures supported by CIIE may be set up for commercialization of a technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. 
 Ventures from any academic discipline will be welcome at CIIE, including but not restricted to Mining Engineering, Petroleum Engineering, Earth System Sciences, Geo-Physics, Information and Communication Technology (ICT), Biotechnology, Food Technology, Agriculture and allied sectors. 
 Likewise, ventures aiming at making social impact could be working towards any of the prominent issues faced by society, including but not restricted to modernizing agricultural practices, greater economic opportunities for women, greater employment opportunities for youth and overcoming social divides. 
  </p> 
@@ -55,7 +55,7 @@ Likewise, ventures aiming at making social impact could be working towards any o
                    <img   src="images/flowchart.png"alt="incubation" style="width:100%"  >
                     </div>
                     <div class="container borders">
-                      <p> To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
+                      <p style=" text-align: justify; text-justify: inter-word;" > To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
 The application would then be screened at CIIE by an evaluation committee and examined for   financial and technical feasibility. If cleared in first round of screening, applicants may be invited to present their ideas before a select panel. 
 If selected for incubation, incubatees would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of agreement, incubatees would be allotted facilities at CIIE subject to availability and need of incubate, after which incubatees can start the process of incubation.  
 <br>
@@ -80,9 +80,9 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            			</div>
 	            			<div class="course-info">
 	            				<h6>About form</h6>
-                		        <h4>You can download the offline form from <a href="files/Incubation_form-students.docx" download > here </a> and submit it <a href="files/Incubation_form-students.pdf" download > here </a> </h4>
+                		        <h4>You can download the offline form from <a href="files/Incubation_form-students.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform" download > here </a> </h4>
                              <h5 style="text-align:center">OR </h5> 
-                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform" download > here </a> .
+                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform"  > here </a> .
 
 	            			</div>
 	            		</div>
@@ -95,7 +95,7 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            			</div>
 	            			<div class="course-info">
 	            				<h6>About form</h6>
-                      <h4>You can download the offline form from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and submit it <a href="files/Incubation_form-students.pdf" download > here </a> </h4>
+                      <h4>You can download the offline form from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"  > here </a> </h4>
                              <h5 style="text-align:center">OR </h5> 
                              <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform" download > here </a> .
 
@@ -112,9 +112,9 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            			<div class="course-info">
 	            				<h6>About form</h6>
 
-                      <h4>You can download the offline form from <a href="files/Incubation_form-outsiders.docx" download > here </a> and submit it <a href="files/Incubation_form-students.pdf" download > here </a> </h4>
+                      <h4>You can download the offline form from <a href="files/Incubation_form-outsiders.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"> here </a> </h4>
                              <h5 style="text-align:center">OR </h5> 
-                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform" download > here </a> .
+                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLScRCqOmfwYiGOeRhmkMdWTsv2mzgkEhGbKVCO6pxVvQ9yDBpw/viewform" download > here </a> .
 
 
 

@@ -20,17 +20,15 @@
         
 
         <main>
-            <div class="achieve_head">
-                <p>ACHIEVEMENTS</p>
-            </div>
             <div class="achieve_trophy">
                 <div class="texts">
-                  <h2>CIIE</h2>
+                  <h2>ACHIEVEMENTS</h2>
                   <hr style="border-top: 1px solid rgb(107, 103, 103); ">
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias nisi eum explicabo consectetur ut eligendi consequatur laudantium, accusantium tempore deleniti, corrupti quos officia a</p>
-                </div>
+                  </div>
                 
             </div>
+
+
             
             <div class="row containerr" style="margin-top: 50px;">
 

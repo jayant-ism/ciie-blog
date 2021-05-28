@@ -39,7 +39,7 @@
                   <th>S. NO.</th>
                   <th>Start-up Name</th>
                   <th>Team Leader</th>
-                  <th>Incubation Date</th>
+                  <th>Incubation Year</th>
                 </tr>
 
                 <?php
