@@ -278,17 +278,6 @@ body {
 
 }
 
-.texts{
-  
-  width: 40%;
-  font-weight: 1000;
-  color: #efefef;
-  margin-left: 10%;
-  
-}
-.texts h2{
-  font-size: 5em;
-}
 @media only screen and (max-width: 395px){
   .achieve_trophy {
     width: 340px;

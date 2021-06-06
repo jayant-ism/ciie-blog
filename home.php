@@ -27,9 +27,7 @@
             <div >
                 <h1> About CIIE</h1>
                 <hr style="border-top: 1px solid rgb(107, 103, 103); ">
-                <p style=" text-align: justify; text-justify: inter-word;"> Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large.
-                 Goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making social and strategic impact.</p>
-              </div>
+                <p style=" text-align: justify; text-justify: inter-word;">Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at the Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large. The goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making a social and strategic impact. </div>
             
             </div>
 
@@ -182,23 +180,22 @@ function carousel() {
                     <div class="obj_box"> 
                         <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                            
-
-                            <p style=" text-align: justify; text-justify: inter-word;" > <Strong style="text-size:17px"> Providing support to existing or new startups/enterprises </strong> <br>  CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
+                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > <Strong style="font-size:24px"> Providing support </strong> <br><br>  CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
                         </div>
                         <div class="obj_box2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                            <p style=" text-align: justify; text-justify: inter-word;" > <Strong style="text-size:17px">  Fostering a culture of innovation and entrepreneurship </strong> <br> For entrepreneurship to be widely prevalent in society, it needs to become an important part of educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup bootcamps etc. These will encourage students and faculty to work on new ideas, which could later be converted to successful business ventures. .</p>
+                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > <Strong style="font-size:24px">  Fostering a culture of innovation and entrepreneurship </strong> <br> For entrepreneurship to be widely prevalent in society, it needs to become an important part of the educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup boot camps etc. These will encourage students and faculty to work on new ideas, which could later be converted into successful business ventures. </p>
                         </div>
                         <div class="obj_box3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                            <p style=" text-align: justify; text-justify: inter-word;" > <Strong style="text-size:17px">  Building a conducive ecosystem for entrepreneurship </strong> <br> An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
+                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > <Strong style="font-size:24px">  Building a conducive ecosystem </strong> <br><br> An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
                         </div>
                     </div>
                 </div>
             </div>
 
 
-            <div class="container borders" style="padding-top: 10px">
-              <h1>
-              Partners and Sponsers
+            <div class="container borders" style="padding-top: 10px; align:center ">
+              <h1 >
+              Partners and Sponsors
               </h1>
               <br/>
 

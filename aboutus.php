@@ -25,10 +25,11 @@
                         <p>Mission and Vision</p>
                     </div>
                     <div class="text container">
-                        <p style=" text-align: justify; text-justify: inter-word;" >To unleash entrepreneurial capacity and facilitate start-ups, with the hope that the new business entities will generate economic value and employment for the country as well as find practical business solutions to social and environmental challenges of current times.</p>
+                        <p style=" text-align: justify; text-justify: inter-word;" >We intend to unleash entrepreneurial capacity and facilitate start-ups, with the hope that the new business entities will generate economic value and employment for the country as well as find practical business solutions to social and environmental challenges of current times.
+
+</p> <br> <p style=" text-align: justify; text-justify: inter-word;" > We propose to motivate, build and promote out of the box thinking and the development of innovative ideas. Our focus is to build an environment that will facilitate the creation of social enterprise knowledge through research and empower students to apply their entrepreneurship abilities to develop solutions for greater social impact through academia.</p>
                         <br>
-                        <p style=" text-align: justify; text-justify: inter-word;">To motivate, build and promote out of the box thinking and development of innovative ideas. To build an environment that will facilitate the creation of social enterprise knowledge through research and empower students to apply their entrepreneurship abilities to develop solutions for greater social impact through academia.</p>
-                    </div>
+                        </div>
                 </div>
                 <div class="aboutus_col2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <div class="text_head">
@@ -159,10 +160,10 @@
                       <div class="mySlides1 ">
                     
                     <div class="card fade1"> 
-                      <img src="images/Coreteam/image1.jpg" alt="Ciee" class="images">
+                      <img src="images/Coreteam/Harshal Verma.jpg" alt="Ciee" class="images">
                     
                       <div class="container">
-                          <div class="text"><p>image1</p></div>
+                          <div class="text"><p>Harshal Verma,<br>Student Coordinator-Branding and Promotions </p></div>
                       
                     </div>
                   </div>
@@ -171,10 +172,10 @@
                   <div class="mySlides1 ">
                     
                     <div class="card fade1"> 
-                      <img src="images/Coreteam/image2.jpg" alt="Ciee" class="images">
+                      <img src="images/Coreteam/Nishan Kumar.jpeg" alt="Ciee" class="images">
                     
                       <div class="container">
-                          <div class="text"><p>image2</p></div>
+                          <div class="text"><p>Nishan Kumar,<br>Student Joint Coordinator-Alumni and Industry Networking</p></div>
                       
                     </div>
                   </div>
@@ -183,10 +184,10 @@
                   <div class="mySlides1 ">
                     
                     <div class="card fade1"> 
-                      <img src="images/Coreteam/image3.jpg" alt="Ciee" class="images">
+                      <img src="images/Coreteam/R Karthikeyan.jpg" alt="Ciee" class="images">
                     
                       <div class="container">
-                          <div class="text"><p>image3</p></div>
+                          <div class="text"><p>R Karthikeya,<br>Student Joint Coordinatorn-Event Coordination</p></div>
                       
                     </div>
                   </div>
@@ -195,10 +196,10 @@
                   <div class="mySlides1 ">
                     
                     <div class="card fade1"> 
-                      <img src="images/Coreteam/image4.jpg" alt="Ciee" class="images">
+                      <img src="images/Coreteam/Saransh Surana.jpg" alt="Ciee" class="images">
                     
                       <div class="container">
-                          <div class="text"><p>image4</p></div>
+                          <div class="text"><p>Saransh Surana,<br>Student Coordinator-Content and Graphic Designing </p></div>
                       
                     </div>
                   </div>
@@ -207,10 +208,10 @@
                   <div class="mySlides1 ">
                     
                     <div class="card fade1"> 
-                      <img src="images/Coreteam/image5.jpg" alt="Ciee" class="images">
+                      <img src="images/Coreteam/Siddharth Nag.jpg" alt="Ciee" class="images">
                     
                       <div class="container">
-                          <div class="text"><p>image5</p></div>
+                          <div class="text"><p>Siddharth Nag,<br>Student Coordinator-Event Coordination</p></div>
                       
                     </div>
                   </div>
@@ -220,15 +221,26 @@
                   <div class="mySlides1 ">
                     
                     <div class="card fade1"> 
-                      <img src="images/Coreteam/Jayant.jpg" alt="Ciee" class="images">
+                      <img src="images/Coreteam/Jayant.jpeg" alt="Ciee" class="images">
                     
                       <div class="container">
-                          <div class="text"><p>Jayant </p></div>
+                          <div class="text"><p>Jayant Anand,<br>Student Coordinator-Website Development </p></div>
+                      </div>
+                  </div>
+                  </div>
+                  
+                  <div class="mySlides1 ">
+                    <div class="card fade1"> 
+                      <img src="images/Coreteam/Umang Nagpal.jpg" alt="Ciee" class="images">
+                    
+                      <div class="container">
+                          <div class="text"><p>Umang Nagpal,<br>Student Coordinator-Student Joint Coordinator-Alumni and Industry Networking</p></div>
                       
                     </div>
                   </div>
                   </div>
                   
+
 
 
 

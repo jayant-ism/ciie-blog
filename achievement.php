@@ -20,18 +20,19 @@
         
 
         <main>
-            <div class="achieve_trophy">
-                <div class="texts">
-                  <h2>ACHIEVEMENTS</h2>
-                  <hr style="border-top: 1px solid rgb(107, 103, 103); ">
-                  </div>
-                
-            </div>
+            
 
 
             
             <div class="row containerr" style="margin-top: 50px;">
 
+              <div  style="color: #2c3531;">
+                    <h2 style="font-size:50px">ACHIEVEMENTS</h2>
+                    <hr style="border-top: 1px solid rgb(107, 103, 103); ">
+                
+                </div>
+                
+            
               <!--  place loop here 
 
 

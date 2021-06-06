@@ -81,9 +81,7 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            			<div class="course-info">
 	            				<h6>About form</h6>
                 		        <h4>You can download the offline form from <a href="files/Incubation_form-students.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform" download > here </a> </h4>
-                             <h5 style="text-align:center">OR </h5> 
-                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform"  > here </a> .
-
+                             
 	            			</div>
 	            		</div>
 	            	</div>
@@ -96,9 +94,7 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            			<div class="course-info">
 	            				<h6>About form</h6>
                       <h4>You can download the offline form from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"  > here </a> </h4>
-                             <h5 style="text-align:center">OR </h5> 
-                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4Bo9WsxDaRPm35WzcvHQ_lFlvOFWgfq9S7av5fBXMva9ScQ/viewform" download > here </a> .
-
+                    
 	            			</div>
 	            		</div>
 	            	</div>
@@ -113,9 +109,7 @@ You can download full policy document from <a href="files/Incubation_form-studen
 	            				<h6>About form</h6>
 
                       <h4>You can download the offline form from <a href="files/Incubation_form-outsiders.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"> here </a> </h4>
-                             <h5 style="text-align:center">OR </h5> 
-                             <h4> You can submit the online form from <a href="https://docs.google.com/forms/d/e/1FAIpQLScRCqOmfwYiGOeRhmkMdWTsv2mzgkEhGbKVCO6pxVvQ9yDBpw/viewform" download > here </a> .
-
+                        
 
 
 	            			</div>
