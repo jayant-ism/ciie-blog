@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About-ciie</title>
+
+    
+    
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/aboutus.css">
     <script src="https://use.fontawesome.com/7677280783.js"></script>
+    
+    <link rel="stylesheet" href="css/require.css">
 </head>
 <body>
     
@@ -16,9 +21,17 @@
     <div class="containr">
 
         <main>
-            <div class="aboutus_head" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
+            <!-- <div class="aboutus_head" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                 <p>ABOUT US</p>
             </div>
+
+            -->
+            <div class="container" style="padding-left:100px; font-size:50px" >
+            <h1 style="font-size:32px"> About Us </h1>
+            <hr style="border-top: 1px solid rgb(107, 103, 103); ">
+               
+            </div>
+            
             <div class="aboutus_row">
                 <div class="aboutus_col1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                     <div class="text_head">
@@ -36,6 +49,8 @@
                         <p>Highlights</p>
                     </div>
                     <div class="conatainer">
+                    <br>
+                    <br>
                     
                         <marquee class="marque-css" direction="up">
 
@@ -255,6 +270,7 @@
                     <span class="dot1"></span>
                     <span class="dot1"></span>
                     <span class="dot1"></span>
+                    <span class="dot1"></span>
                   </div>
                   
                   <script>
@@ -301,6 +317,7 @@
                     slides1[slideIndex1-1].style.display = "block";  
                     dots[slideIndex-1].className += " active";
                     dots1[slideIndex1-1].className += " active";
+
                     setTimeout(showSlides, 4000)
                   }
                   

@@ -24,7 +24,7 @@ $i++;
 $excel->getActiveSheet()->SetCellValue('A'.$i, $i);
 $excel->getActiveSheet()->SetCellValue('B'.$i, $email);
 $excel->getActiveSheet()->SetCellValue('C'.$i, $name);
-$excel->getActiveSheet()->SetCellValue('E'.$i, $detail); 
+$excel->getActiveSheet()->SetCellValue('D'.$i, $detail); 
 
 
 
@@ -38,46 +38,38 @@ $writer->save("contact.xlsx");
 -->
 
 
-<html>
-  <head>
-  <meta charset="UTF-8">
-    <meta charset="utf-8">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-      
+    <title>home-ciie</title>
+    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="https://use.fontawesome.com/7677280783.js"></script>
+    
 
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-
-    <link rel="stylesheet" href="css/reset.css">
+    
     <link rel="stylesheet" href="css/contact.css">
-
     
-
-
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/require.css">
+    <link rel="stylesheet" href="css/nav-footer.css">
     
-
+    
 </head>
 <body>
-
 <?php require 'require/header.php';?>
 
 <?php require 'require/nav.php';?>
 
 
-
-
-<div class="container">
-
-
-<main>
+<main class="container">
 
 <h1 style="font-size:30px ; margin-top:100px ;"> Wish to contact us? <br> Share your details and we will get in touch </h1>
     <div class="conatiner" style="margin-top:50px ; margin-bottom: 100px ;" >
@@ -91,13 +83,13 @@ $writer->save("contact.xlsx");
 
             <div class="form-group">
                 <label for="name">Name</label>
-                <input type="text" name="name" class="form-control" id="name">
+                <input type="text" name="name" class="form-control" id="name" required>
             </div>
             
             
             <div class="form-group">
                 <label for="email"> Email id:</label>
-                <input type="email" name="email" class="form-control" id="email">
+                <input type="email" name="email" class="form-control" id="email" required>
             </div>
 
             <div class="form-group">
@@ -187,16 +179,153 @@ $writer->save("contact.xlsx");
 
 
 
-<style >
-.footer_info{
-  background-color : black ; 
+
+
+
+    <div class="containrr">
+    
+
+        <?php require 'require/footer.php';?>
+
+    </div>
+    <style>
+
+
+.brands {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 1rem;
+  list-style-type: none;
+
 }
-</style>
+
+.brands__item img {
+
+  width: 130px;
+  height: 75px;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
 
 
-<?php require 'require/footer.php';?>  
 
 
+
+.brands__item img {
+  display: block;
+  /* Make sure max-width is added */
+  max-width: 100%;
+}
+
+
+            .card {
+ 
+ transition: 0.6s;
+ border-radius: 5%;
+ width: 100%;
+ margin: 0 auto;
+}
+
+
+
+
+.img_slider{
+  background-color:white ;
+    width: 100%;
+}
+
+
+.container {
+ padding: 16px;
+ 
+}
+        * {box-sizing: border-box;}
+        body {font-family: Verdana, sans-serif;}
+        .mySlides{display: none;}
+        img {vertical-align: middle;}
+        
+        /* Slideshow container */
+        .slideshow-container {
+          max-width: 1000px;
+          position: relative;
+          margin: auto;
+        }
+        
+        /* Caption text */
+        .text {
+          color: black;
+
+          margin: 0 auto;
+          
+        }
+        
+        /* Number text (1/3 etc) */
+        .numbertext {
+          color: #f2f2f2;
+          font-size: 12px;
+          padding: 8px 12px;
+          position: absolute;
+          top: 0;
+        }
+        
+        /* The dots/bullets/indicators */
+        .dot {
+          height: 15px;
+          width: 15px;
+          margin: 0 2px;
+          background-color: #bbb;
+          border-radius: 50%;
+          display: inline-block;
+          transition: background-color 0.6s ease;
+          margin-bottom: 30px;
+        }
+        
+        .active {
+          background-color: #717171;
+        }
+        
+        /* Fading animation */
+        .fade {
+          -webkit-animation-name: fade;
+          -webkit-animation-duration: 5.0s;
+          animation-name: fade;
+          animation-duration: 5.0s;
+        }
+        
+        @keyframes fade {
+   0% {
+      opacity: 0;
+      transform: translateX(-50%);
+      border-radius: 0%;
+   }
+   50% {
+      opacity: 1;
+      transform: translateX(0);
+
+      
+   }
+   100% {
+      opacity: 0;
+      transform: translateX(50%);
+      border-radius: 0%;
+      
+   }
+} 
+        
+        /* On smaller screens, decrease text size */
+        @media only screen and (max-width: 600px) {
+          .text {font-size: 11px}
+          .mySlides{
+              width:100%;
+          }
+          .card{
+            width: 70%;
+          }
+        }
+        </style>
 </body>
-
-  </html>
+</html>
+<!-- 
+@developed for CIIE iitIsm
+@backend by death  
+--> 

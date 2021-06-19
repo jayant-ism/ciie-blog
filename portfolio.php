@@ -6,14 +6,18 @@
     <title>home-ciie</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/detail.css">
-    <link rel="stylesheet" href="css/csr_funds.css">
+  
 
-    <link rel="stylesheet" href="css/home.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="https://use.fontawesome.com/7677280783.js"></script>
     
+
+    
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/require.css">
+    <link rel="stylesheet" href="css/detail.css">
 </head>
 <body>
     <div class="containrr">
@@ -27,19 +31,20 @@
 
 
 
-            <div class="container borders">
-                <h1> List of startups incubated </h1>
+            <div class="container">
+                <h1 style="font-size:32px"> List of Startups Incubated </h1>
                 
+                <hr style="border-top: 1px solid rgb(107, 103, 103); ">
             </div>
 
             <div class="container">
             
             <table>
                 <tr>
-                  <th>S. NO.</th>
-                  <th>Start-up Name</th>
-                  <th>Team Leader</th>
-                  <th>Incubation Year</th>
+                  <th style='text-align:center'>S. NO.</th>
+                  <th style='text-align:center'>Start-up Name</th>
+                  <th style='text-align:center'>Team Leader</th>
+                  <th style='text-align:center'>Incubation Year</th>
                 </tr>
 
                 <?php
@@ -61,10 +66,10 @@
                             $teamleader = $excel->getActiveSheet()->getCell('C'.$i)->getValue();
                             $incubationdate = $excel->getActiveSheet()->getCell('D'.$i)->getValue();                            
                             echo "<tr>";
-                            echo "<td>$id</td>";
-                            echo "<td>$startupname</td>";
-                            echo "<td>$teamleader</td>";
-                            echo "<td>$incubationdate</td>";
+                            echo "<td style='text-align:center'>$id</td>";
+                            echo "<td style='text-align:center'>$startupname</td>";
+                            echo "<td style='text-align:center'>$teamleader</td>";
+                            echo "<td style='text-align:center'>$incubationdate</td>";
                             echo "</tr>";
                             $i++;
                         }

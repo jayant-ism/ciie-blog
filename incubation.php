@@ -9,8 +9,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/detail.css">
-    <link rel="stylesheet" href="css/csr_funds.css">
-
+    
     <link rel="stylesheet" href="css/home.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -19,16 +18,18 @@
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script src="https://use.fontawesome.com/7677280783.js"></script>
-    
+    <link rel="stylesheet" href="css/require.css">
+    <link rel="stylesheet" href="css/csr_funds.css">
+
 
 
 </head>
 <body>
+<?php require 'require/header.php';?>
+
+<?php require 'require/nav.php';?>
     <div class="containrr">
-        <?php require 'require/header.php';?>
-
-        <?php require 'require/nav.php';?>
-
+       
         <main>
             
 
@@ -38,89 +39,91 @@
              
                 <div class="container">
                   <h1>INCUBATING WITH CIIE: POLICY AND PROCEDURE  </h1> 
+                  
+                  <hr style="border-top: 1px solid rgb(107, 103, 103); ">
                </div>
-                  <div class="container borders">
+                  <div class="container">
                   
 
-                  <p style=" text-align: justify; text-justify: inter-word;">CIIE seeks to support ventures from start-up phrase to scaling of operations by providing necessary support and help entrepreneurs. Ventures supported by CIIE may be set up for commercialization of a technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. 
-Ventures from any academic discipline will be welcome at CIIE, including but not restricted to Mining Engineering, Petroleum Engineering, Earth System Sciences, Geo-Physics, Information and Communication Technology (ICT), Biotechnology, Food Technology, Agriculture and allied sectors. 
-Likewise, ventures aiming at making social impact could be working towards any of the prominent issues faced by society, including but not restricted to modernizing agricultural practices, greater economic opportunities for women, greater employment opportunities for youth and overcoming social divides. 
- </p> 
- </div>
-                  <div class="container borders">
+                  <p style=" text-align: justify; text-justify: inter-word;">CIIE seeks to support ventures from the start-up phase to scaling operations by providing the necessary support and help to the entrepreneurs. Ventures supported by CIIE may be set up for commercialization of technological innovation, scaling up of an existing commercial or social enterprise/idea or for providing services to a larger enterprise. Ventures from any academic discipline will be welcomed at CIIE, and not only restricted to Mining Engineering, Petroleum Engineering, Earth System Sciences, Geo-Physics, Information and Communication Technology (ICT), Biotechnology, Food Technology, Agriculture and allied sectors. Likewise, ventures aiming at making social impact could be working towards any of the prominent issues faced by society, including but not restricted to modernizing agricultural practices, greater economic opportunities for women, greater employment opportunities for youth and overcoming social divides. </p> 
+              </div>
+                  <div class="container">
 
                    <h2 id="incubation">Incubation Process at CIIE: </h2>
+                   
                    </div>
                     <div class="container"> 
                    <img   src="images/flowchart.png"alt="incubation" style="width:100%"  >
                     </div>
-                    <div class="container borders">
-                      <p style=" text-align: justify; text-justify: inter-word;" > To apply for incubation at CIIE, applicant would be required to fill in an application form and furnish details about their enterprise or idea alongwith justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. 
-The application would then be screened at CIIE by an evaluation committee and examined for   financial and technical feasibility. If cleared in first round of screening, applicants may be invited to present their ideas before a select panel. 
-If selected for incubation, incubatees would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of agreement, incubatees would be allotted facilities at CIIE subject to availability and need of incubate, after which incubatees can start the process of incubation.  
-<br>
+                    <div class="container "> <!--borders -->
+                      <p style=" text-align: justify; text-justify: inter-word;" > To apply for incubation at CIIE, the applicant would be required to fill in an application form and furnish details about their enterprise or idea along with justification on how they were working /planning to work towards innovation, development or improvement of products or processes or services that would translate into a scalable business model with a high potential of employment generation or wealth creation. The application would then be screened at CIIE by an evaluation committee and examined for financial and technical feasibility. If cleared in the first round of screening, applicants may be invited to present their ideas before a selection panel. If selected for incubation, incubates would sign an incubation agreement containing rules and norms for incubation, consideration, equity holding, usage of laboratories and other facilities etc. Upon signing of the agreement, the incubates would be allotted facilities at CIIE subject to the availability and need of incubate, after which they can start the process of incubation.<br>
 You can download full policy document from <a href="files/Incubation_form-students.docx" download > here </a> .
 </p> 
  </div>
-   
-            <div class="sds" >
+  <div class="container">
+                 <h1 id="application"> Application Forms </h1>
+</div>
 
-            
-	            <div class="container testing"> 	
+<div class="container">
+    <div class="left">
+    <div class="container">
+    <h6 class="left-heading">For IIT (ISM) Dhanbad students and alumni </h6>
+    </div>
+    </div>
 
-                    <div class="container borders"> 
+
+    <div class="center">
+    <br>
+    
+    <h4>You can download the offline form from <a href="files/Incubation_form-students.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform" download > here </a> </h4>
+                            
                     
-                <h1 id="application"> Application Forms </h1>
+    </div>
+    <div style="clear:both;"></div>
+</div>
 
-            </div>	
-                    <div class="courses-container">
-	            		<div class="course">
-	            			<div class="course-preview">
-	            				<h6 style="width:180px">For IIT (ISM) Dhanbad students and alumni </h6>
-	            			</div>
-	            			<div class="course-info">
-	            				<h6>About form</h6>
-                		        <h4>You can download the offline form from <a href="files/Incubation_form-students.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform" download > here </a> </h4>
-                             
-	            			</div>
-	            		</div>
-	            	</div>
 
-	            	<div class="courses-container">
-	            		<div class="course">
-	            			<div class="course-preview">
-	            				<h6 style="width:180px">For IIT(ISM) Dhanbad Faculty </h6>
-	            			</div>
-	            			<div class="course-info">
-	            				<h6>About form</h6>
-                      <h4>You can download the offline form from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"  > here </a> </h4>
+
+
+
+<div class="container">
+    <div class="left">
+    <div class="container">
+    <h6 class="left-heading">For IIT(ISM) Dhanbad Faculty  </h6>
+    </div>
+    </div>
+
+
+    <div class="center">
+    <br>
+    
+    <h4>You can download the offline form from <a href="files/Faculty_entrepreneurship_form.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"  > here </a> </h4>
+                     
                     
-	            			</div>
-	            		</div>
-	            	</div>
-
-                
-	            	<div class="courses-container">
-	            		<div class="course">
-	            			<div class="course-preview">
-	            				<h6 style="width:180px">For Others</h6>
-	            			</div>
-	            			<div class="course-info">
-	            				<h6>About form</h6>
-
-                      <h4>You can download the offline form from <a href="files/Incubation_form-outsiders.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"> here </a> </h4>
-                        
-
-
-	            			</div>
-	            		</div>
-	            	</div>
+    </div>
+    <div style="clear:both;"></div>
+</div>
 
 
 
 
-	            </div>
-            </div>
+<div class="container">
+    <div class="left">
+    <div class="container">
+    <h6 class="left-heading">For Others </h6>
+    </div>
+    </div>
+
+
+    <div class="center">
+    <br>
+    
+    <h4>You can download the offline form from <a href="files/Incubation_form-outsiders.docx" download > here </a> and submit it <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsgtIMfVc54Vtd8PtylDcBzxkwC1VC-vvAyQM4Cq5SeGLiMA/viewform"> here </a> </h4>
+                                      
+                    
+    </div>
+    <div style="clear:both;"></div>
+</div>
 
 
 
@@ -130,6 +133,12 @@ You can download full policy document from <a href="files/Incubation_form-studen
 
 
 
+
+
+
+
+<br>
+<br>
 
 
 
@@ -148,8 +157,36 @@ You can download full policy document from <a href="files/Incubation_form-studen
 
 
 
+<style>
 
-    <style>
+
+.brands {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 1rem;
+  list-style-type: none;
+
+}
+
+.brands__item img {
+
+  width: 130px;
+  height: 75px;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+
+
+
+
+
+.brands__item img {
+  display: block;
+  /* Make sure max-width is added */
+  max-width: 100%;
+}
+
+
             .card {
  
  transition: 0.6s;
@@ -254,7 +291,116 @@ You can download full policy document from <a href="files/Incubation_form-studen
             width: 70%;
           }
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .left{
+    float:left;
+    width:32%;
+    border:1px solid #CEDCEA; 
+    background-color: #d1e8e2;
+  color: #116466;
+  border-radius :10px ;
+  height: 100px ; 
+}
+
+.center{
+    float:left;
+    width:68% ;
+    background-color: white ;
+    border-radius : 10px ;
+    padding-top: 15px  ;
+    padding-bottom: 15px  ;
+    height: 100px ; 
+
+}
+
+.left-heading{
+  font-size:15px ; width:180px ;
+
+}
+@media(max-width:800px )
+{
+  .left{
+    float:none;
+    width:100%;
+    border:1px solid #CEDCEA; 
+    min-height: 50px  ;
+   
+    background-color: #d1e8e2;
+  color: #116466;
+  text-align:center ;
+  height: auto ; 
+
+
+}
+
+.center{
+    float:none;
+    width:100%;
+    border:1px solid #CEDCEA; 
+    margin-top: 50px ; 
+    
+  height: auto ;
+
+}
+
+.left-heading{
+  width: 100% ; 
+}
+}
+
+
+@media(min-width:968 )
+{
+  .left{
+    float:none;
+    border:1px solid #CEDCEA; 
+    
+    background-color: #d1e8e2;
+  color: #116466;
+
+}
+
+.center{
+    float:none;
+    width:81%;
+    border:1px solid #CEDCEA; 
+    
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </style>
+      
     
 <!--    
     <div class="fixed-action-btn"  style="right: 50px; bottom: 50px;">

@@ -4,28 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>home-ciie</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    
+    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
    
+
     <link rel="stylesheet" href="css/home.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="https://use.fontawesome.com/7677280783.js"></script>
+    <link rel="stylesheet" href="css/require.css">
+    
     
 </head>
 <body>
-    <div class="containrr">
-        <?php require 'require/header.php';?>
+<?php require 'require/header.php';?>
 
-        <?php require 'require/nav.php';?>
+<?php require 'require/nav.php';?>
+
+    <div class="containrr">
+    
 
         <main>
             
             <div class="achieve_trophy ">
             </div>
+            <br><br>
             <div class="container">
             <div >
-                <h1> About CIIE</h1>
+                <h1 style="font-size:32px"> About CIIE</h1>
                 <hr style="border-top: 1px solid rgb(107, 103, 103); ">
                 <p style=" text-align: justify; text-justify: inter-word;">Centre for Innovation, Incubation and Entrepreneurship (CIIE) is a Not-for-Profit Centre at the Indian Institute of Technology (Indian School of Mines) Dhanbad. The centre is dedicated to promoting innovation and entrepreneurship within the institute and in society at large. The goal of CIIE is to promote start-ups and entrepreneurship as a viable career option and as means to making a social and strategic impact. </div>
             
@@ -35,9 +39,9 @@
 
           <div class="container">
           <div class="w3-content w3-section" style="max-width:800px aligh:center">
-          <img class="mySlides" src="images/sampleimage.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
+          <img class="mySlides" src="images/8.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
           <img class="mySlides" src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
-          <img class="mySlides" src="images/members.jpeg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
+          <img class="mySlides" src="images/maxresdefault.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
                        
           </div>
 
@@ -83,110 +87,21 @@ function carousel() {
             
             
 
-<!--
-
-
-            <div class="img_slider" style="margin-top: 100px;" >
-                
-                <div class="slideshow-container" style="padding-top: 50px;">
-                
-                <div class="mySlides fade" >
-                  
-                  <div class="card" >
-                    <img class="fade" src="images/sampleimage.jpg" alt="Ciee" style="width:100%; height: 360px; border-radius: 5%;">
-                    <div class="container">
-                        <div class="text"><p>Caption One</p></div>
-                    </div>
-                  </div>
-                  
-                </div>
-                
-                <div class="mySlides fade ">
-                  
-                  <div  class="card" >
-                    <img class="fade" src="images/trophy.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
-                    <div class="container">
-                        <div class="text" ><p>Caption Two</p></div>
-                    </div>
-                  </div>
-                  
-                </div>
-                
-                <div class="mySlides fade ">
-                  
-                  <div class="card" >
-                    <img class="fade" src="images/members.jpeg" alt="Ciee" style="width:100%; height: 360px;  border-radius: 5%;">
-                    <div class="container">
-                        <div class="text"><p>Caption Three</p></div>
-                    </div>
-                  </div>
-                  
-                </div>
-                
-                </div>
-                <br>
-                
-                <div style="text-align:center">
-                  <span class="dot"></span> 
-                  <span class="dot"></span> 
-                  <span class="dot"></span> 
-                </div>
-                
-                <script>
-                var slideIndex = 0;
-                showSlides();
-                
-                function showSlides() {
-                  var i;
-                  var slides = document.getElementsByClassName("mySlides");
-                  
-                  var dots = document.getElementsByClassName("dot");
-                  for (i = 0; i < slides.length; i++) {
-                    
-                        slides[i].style.display = "none";
-                    
-                      
-                  }
-                  slideIndex++;
-                  if (slideIndex > slides.length) {slideIndex = 1}    
-                  for (i = 0; i < dots.length; i++) {
-                    dots[i].className = dots[i].className.replace(" active", "");
-                  }
-                  slides[slideIndex-1].style.display = "block";  
-                  dots[slideIndex-1].className += " active";
-                  setTimeout(showSlides, 4000)
-                }
-                
-
-                
-                </script>
-
-
-
-
-
-
-            </div>
-
-
-
-
--->
             <div class="here" > 
                 <div class="obj">
                     <div class="obj_title">
-                        <h1>	Scope of Activities of CIIE: </h1>
+                        <h1 style="font-size:32px">	Scope of Activities of CIIE: </h1>
                     </div>
                     <div class="obj_box"> 
                         <div class="obj_box1" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
                            
-                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > <Strong style="font-size:24px"> Providing support </strong> <br><br>  CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
+                        <p style=" text-align: justify; text-justify: inter-word;font-size:18px; text-align:center;  " > <Strong style="font-size:24px ; padding-bottom:0px"  > Providing support </strong>  </p> <p style=" text-align: justify; text-justify: inter-word;font-size:18px " >   CIIE will support in scaling up early-stage start-ups and facilitate converting business ideas into entrepreneurial ventures. To that end, CIIE aims to build and share resources including space and infrastructure, access to business support services, seed funds, mentoring and training programmes to enhance the skills of entrepreneurs.</p>
                         </div>
                         <div class="obj_box2" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > <Strong style="font-size:24px">  Fostering a culture of innovation and entrepreneurship </strong> <br> For entrepreneurship to be widely prevalent in society, it needs to become an important part of the educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup boot camps etc. These will encourage students and faculty to work on new ideas, which could later be converted into successful business ventures. </p>
+                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px ;text-align:center; " > <Strong style="font-size:24px;padding-bottom:0px">  Fostering a culture of innovation and entrepreneurship </strong> </p> <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > For entrepreneurship to be widely prevalent in society, it needs to become an important part of the educational curriculum and be organically linked with innovation. CIIE will work towards fostering a culture of innovation among students and faculty of educational institutions by organising initiatives hackathons, tech-fests, idea competition, startup boot camps etc. These will encourage students and faculty to work on new ideas, which could later be converted into successful business ventures. </p>
                         </div>
                         <div class="obj_box3" style="border-radius: 2%; box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);">
-                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > <Strong style="font-size:24px">  Building a conducive ecosystem </strong> <br><br> An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
+                            <p style=" text-align: justify; text-justify: inter-word;font-size:18px ;text-align:center;" > <Strong style="font-size:24px; padding-bottom:0px">  Building a conducive ecosystem </strong> </p> <p style=" text-align: justify; text-justify: inter-word;font-size:18px " > An effective entrepreneurial ecosystem requires active participation of multiple stakeholders, including business, policymakers, educational institutions, social networks and other civil society actors. CIIE will nurture this ecosystem by bringing together start-ups, industry mentors, eminent academicians and researchers. CIIE will also integrate entrepreneurial activities across various centers, departments, faculties at IIT (ISM) Dhanbad, thus breaking the silos</p>
                         </div>
                     </div>
                 </div>
@@ -408,7 +323,12 @@ function carousel() {
           }
         }
         </style>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/7677280783.js"></script>
     
+
 </body>
 </html>
 <!-- 

@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/csr_funds.css">
 	<script src="https://use.fontawesome.com/7677280783.js"></script>
+	
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/require.css">
 </head>
 <body>
 

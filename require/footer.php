@@ -3,6 +3,9 @@
         .footer_info p{
             font-size: 15px ; 
         }
+        .footer{
+            background-color: #2c3531;
+        }
         </style>
             <div class="footer_info">
                 <div class="explore">
