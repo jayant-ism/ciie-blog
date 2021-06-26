@@ -43,7 +43,7 @@ $writer->save("contact.xlsx");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>home-ciie</title>
+    <title>Contact us-CIIE</title>
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
    
@@ -82,13 +82,13 @@ $writer->save("contact.xlsx");
 
 
             <div class="form-group">
-                <label for="name">Name</label>
+                <label for="name">Name<span style="color:red">*</span></label>
                 <input type="text" name="name" class="form-control" id="name" required>
             </div>
             
             
             <div class="form-group">
-                <label for="email"> Email id:</label>
+                <label for="email"> Email id<span style="color:red">*</span></label>
                 <input type="email" name="email" class="form-control" id="email" required>
             </div>
 

@@ -70,23 +70,8 @@
 </html>
 <!-- 
 @developed for CIIE iitIsm
-@backend by death  
 
 
-
-<div class="container">
-
-        <main>
-
-
-</div>
-
-
-
-
-        </main>
-
-    </div>
 
 
 -->

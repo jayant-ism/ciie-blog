@@ -57,7 +57,7 @@ $writer->save("mentor.xlsx");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>home-ciie</title>
+    <title>Mentorship and Funding-CIIE</title>
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
    
@@ -100,13 +100,13 @@ $writer->save("mentor.xlsx");
 
             
             <div class="form-group">
-                <label for="name">Name</label>
-                <input type="text" name="name" class="form-control" id="name" required>
+                <label for="name">Name<span style="color:red">*</span></label>
+                <input type="text" name="name" class="form-control" id="name" required="">
             </div>
 
 
             <div class="form-group">
-                <label for="orgname">Organisation Name:</label>
+                <label for="orgname">Organisation Name</label>
                 <input type="text" name="orgname" class="form-control" id="orgname">
             </div>
             
@@ -118,8 +118,8 @@ $writer->save("mentor.xlsx");
 
             
             <div class="form-group">
-                <label for="email"> Email id:</label>
-                <input type="email" name="email" class="form-control" id="email" required>
+                <label for="email"> Email id<span style="color:red">*</span></label>
+                <input type="email" name="email" class="form-control" id="email" required="">
             </div>
 
 
