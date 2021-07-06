@@ -322,6 +322,10 @@ function carousel() {
             width: 70%;
           }
         }
+        @media (max-width:486px)
+        {
+          .mySlides{height:auto;max-height:200px;}
+        }
         </style>
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

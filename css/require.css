@@ -128,7 +128,7 @@
     display: none;
   }
   
-  @media (max-width:1270px){
+  @media (max-width:1516px){
       
     .nav > .nav-btn {
       display: inline-block;
