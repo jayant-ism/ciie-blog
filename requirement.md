@@ -1,0 +1,1 @@
+Includes: Apache 2.4.48, MariaDB 10.4.19, PHP 7.4.20, phpMyAdmin 5.1.1, OpenSSL 1.1.1, XAMPP Control Panel 3.2.4, Webalizer 2.23-04, Mercury Mail Transport System 4.63, FileZilla FTP Server 0.9.41, Tomcat 8.5.66 (with mod_proxy_ajp as connector), Strawberry Perl 5.32.0.1 Portable
